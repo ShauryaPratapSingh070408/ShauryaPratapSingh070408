@@ -93,7 +93,7 @@ Project Capability — Shows potential for real-world use applications
 </p>
 ---
 
-🌀 FINAL ANIMATION — Letters Combine Into DRISHTI
+🌀 FINAL ANIMATION — Letters Combine Into DRISHTI <!-- Dedicated to someone special -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=00FF88&center=true&vCenter=true&width=650&lines=D...;DR...;DRI...;DRIS...;DRISH...;DRISHT...;DRISHTI" />
