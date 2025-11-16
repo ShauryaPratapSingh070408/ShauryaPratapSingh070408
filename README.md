@@ -1,131 +1,118 @@
-<!-- ───────────────────────────────────────────── -->
-<!--  PREMIUM MINIMALISTIC GITHUB PROFILE README   -->
-<!-- ───────────────────────────────────────────── -->
+Darshana — README.md
 
-<h1 align="center">👋 Hi, I'm <strong>Shaurya Pratap Singh</strong></h1>
-<h3 align="center">Creator of <strong>DARSHANA</strong> — An Indigenous Multi-Domain AI System</h3>
+<!-- HEADER TITLE WITH ANIMATION --><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00A3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saurya+Pratap+Singh;Creator+of+DARSHANA;AI+Engineer+%7C+Developer+%7C+Innovator" />
+</p>
+---
+
+🚀 DARSHANA — Indigenous Multi‑Domain AI System
+
+Darshana (part of the Ananta Engine Ecosystem) is a fully indigenous AI architecture designed to run adaptive learning, cognition-based reasoning, semantic intelligence, and multi-domain workflows without relying on heavy GPU-bound models.
+
+🔥 Engines inside ANANTA Framework
+
+Cognitive Engine — deep reasoning, multi‑step thinking
+
+ReForge Engine — text enhancement, structure rebuilding
+
+Perception Engine — pattern understanding & contextual signals
+
+Astra Engine — knowledge retrieval & domain routing
+
+Sutra Engine — logic, planning & orchestration
+
+Drishti Engine — final integrator (animated in footer)
+
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1x1xGPkex3OB-Vi-7d-VfCx-yvMwiCR4_" width="180" alt="Darshana Logo"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FF7A00&center=true&vCenter=true&width=450&lines=ANANTA+Engine+Ecosystem+Running..." />
 </p>
+---
+
+🧠 About Me
+
+Passionate self‑taught innovator building high‑utility AI systems with focus on:
+
+⚙️ Multi-domain automation
+
+🔍 Human‑centric AI reasoning
+
+📡 Security & smart‑alert architecture
+
+📚 Education, understanding models & adaptive learning
+
+💻 High-performance logic modelling
+
+
+
+---
+
+🎖️ Google Badges & Certifications
+
+Below are direct-display badge images fetched from your Google Drive link.
+
+🌟 My Google Verified Achievements
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=1E90FF&center=true&vCenter=true&width=700&lines=AI+Developer+%7C+Cloud+Learner+%7C+Indigenous+Intelligence+Architect;Creator+of+Ananta+Engine+Suite;Adaptive+Learning+%7C+Cognitive+Systems+%7C+Multi-Domain+AI" alt="Typing Animation"/>
-</p>
+  <img src="https://drive.google.com/uc?export=view&id=1x1xGPkex3OB-Vi-7d-VfCx-yvMwiCR4_" height="300" />
+</p>Badge Description
+
+Completion Badge — Verified Google program completion
+
+Skill Validation — Recognized ability in domain-specific tasks
+
+Technical Proficiency — Demonstrates foundational + intermediate mastery
+
+Project Capability — Shows potential for real-world use applications
+
+
 
 ---
 
-## 🚀 About Me
-- 🔭 Building **Darshana**, an indigenous multi-domain AI model  
-- 🧠 Architect of **Ananta Engine Suite**  
-- 🌱 Learning **LLMs, Cloud, Deep Learning, Adaptive AI**  
-- 💡 Love designing systems that **learn and evolve**  
-- ✉ Contact: **your-email@example.com**
-
----
-
-# 🧠 **DARSHANA — Indigenous Multi-Domain AI System**
-
-Darshana is a next-gen indigenous intelligence architecture designed for:
-
-✔ Education  
-✔ Accessibility  
-✔ Smart Security  
-✔ Research  
-✔ Automation  
-✔ Multi-Domain AI Reasoning  
-
-### 🔱 **ANANTA — Unified Engine Suite**
-
-| Engine | Purpose |
-|--------|---------|
-| 🧠 **Cognitive Engine** | Reasoning, memory, decision-making |
-| 🔄 **ReForge Engine** | Transformation, rewriting, structure shaping |
-| 👁️ **Perception Engine** | Non-visual contextual understanding |
-| 📊 **Analytical Engine** | Math, logic, analytical skills |
-| 🌀 **Adaptive Engine** | Learns from the user |
-| 🔗 **Integration Engine** | Domain shifting + cross-task intelligence |
-
----
-
-# 🏅 Google Badges (with Descriptions)
-
-### ⭐ **Google Cloud Career Practitioner**  
-Foundation program covering cloud fundamentals, storage, compute, IAM, networking.
-
-### ⭐ **Generative AI Fundamentals**  
-Covers prompt engineering, APIs, foundation models, and generative ML basics.
-
-### ⭐ **Cloud Digital Leader**  
-Certification-level badge on cloud architecture, security, and real-world cloud usage.
-
-### ⭐ **Google AI Essentials**  
-AI reasoning, productivity improvements, safe usage, and practical workflows.
-
-### ⭐ **Cloud Computing Foundations**  
-Core computing concepts, VMs, networking, databases, serverless.
-
-### ⭐ **Responsible AI Badge**  
-Ethical AI, fairness, safety, and privacy compliance.
-
-### ⭐ **Data & AI Foundations**  
-Data engineering, pipelines, analytics, and ML lifecycle basics.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud-Badge_Collection-blue?style=for-the-badge&logo=googlecloud" />
-</p>
-
----
-
-# 📊 GitHub Statistics (Premium Style)
+📊 GitHub Stats (Attractive + Minimal)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaPratapSingh070408&show_icons=true&theme=react&hide_border=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShauryaPratapSingh070408&theme=react&hide_border=true&background=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170" />
 </p>
+---
 
-### 🧩 **Most Used Languages (Advanced Card)**
+🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaPratapSingh070408&layout=compact&theme=react&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp,java,react,nodejs,git,linux" />
 </p>
-
 ---
 
-# 🛠️ Languages & Tools
+⚡ Engine Animation (Premium + Minimal)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nextjs,react,git,github,mysql,linux,figma&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00FFD1&center=true&vCenter=true&width=500&lines=Initializing+Engines...;Cognitive+Engine+Active;ReForge+Engine+Optimizing;Astra+Engine+Retrieving;Sutra+Engine+Planning;All+Engines+Synchronized" />
 </p>
-
 ---
 
-# 🏆 Final Summary — **Who Am I as a Developer?**
+🌀 FINAL ANIMATION — Letters Combine Into DRISHTI
 
-> **I am an AI developer who builds systems that think, adapt, and evolve.**  
-
-✔ I created **Darshana**, an indigenous multi-engine AI architecture  
-✔ I designed **Ananta**, a unified engine suite for cognitive + adaptive intelligence  
-✔ I hold **multiple Google AI & Cloud badges**  
-✔ I work in **AI, Cloud, Next.js, TypeScript, Python, Systems Design**  
-✔ I believe in **minimalism, intelligence, and innovation**  
-
-My focus is simple:
-
-> **To build intelligence that empowers people and solves real problems.**
-
----
-
-# 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
-  <a href="https://x.com/shaurya070408">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=00FF88&center=true&vCenter=true&width=650&lines=D...;DR...;DRI...;DRIS...;DRISH...;DRISHT...;DRISHTI" />
+</p><p align="center">
+  <b>"Drishti — The Integrator of All Engines"</b>
 </p>
+---
+
+🌟 Final Summary
+
+I build indigenous AI systems, logic engines, and knowledge models designed to work across multiple domains — education, security, automation, cognitive reasoning, intelligent routing, and personalized understanding.
+
+Darshana is not a single AI model, but an ecosystem — powered by ANANTA and completed by the final Drishti engine.
+
 
 ---
 
-<p align="center"><i>“Build intelligence that adapts, evolves, and empowers.”</i></p>
+📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
+</p>
