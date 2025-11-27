@@ -1,3 +1,425 @@
-[
-  "  <div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=900&color=6366F1&center=true&vCenter=true&width=800&lines=Shaurya+Pratap+Singh;Systems+Architect+|+AI+Engineer+|+R%26D;Creator+of+Nexus,+Darshana+%26+Panda\" alt=\"Header Typing SVG\" />\n</div>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2100&pause=800&color=94A3B8&center=true&vCenter=true&width=650&lines=Autonomous+Systems+Architect;AI+Research+%26+Development;Cloud+Infrastructure+Engineer;Pioneering+Hybrid+Intelligence\" alt=\"Subtitle Typing SVG\" />\n</div>\n\n<div align=\"center\">\n  <br/>\n  <a href=\"https://github.com/ShauryaPratapSingh070408\">\n    <img src=\"https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white\" alt=\"GitHub\"/>\n  </a>\n  <a href=\"https://www.linkedin.com/in/shaurya-pratap-singh-244765335\">\n    <img src=\"https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\"/>\n  </a>\n  <a href=\"mailto:shaurya070408@gmail.com\">\n    <img src=\"https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Email\"/>\n  </a>\n  <a href=\"https://www.instagram.com/shaurya.ai.dev\">\n    <img src=\"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white\" alt=\"Instagram\"/>\n  </a>\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png\" alt=\"divider\" width=\"100%\"/>\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=480&lines=%F0%9F%8E%AF+Executive+Profile\" alt=\"Section: Executive Profile\" />\n</div>\n\n<br/>\n\n<table align=\"center\">\n<tr>\n<td width=\"60\">\n<img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg\" width=\"40\" alt=\"Architecture Icon\"/>\n</td>\n<td>\n\nI am **Shaurya Pratap Singh**, a Systems Architect and AI Engineer dedicated to the rigorous engineering of **autonomous intelligence**. My work focuses on building **self-sustaining digital ecosystems** where code executes, debugs, and evolves autonomously.\n\nI operate at the bleeding edge of **Hybrid AI Architecture**, designing systems that do not merely respond to prompts but actively manage workflows, orchestrate microservices, and maintain state across distributed environments.\n\n</td>\n</tr>\n</table>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=A5B4FC&center=true&vCenter=true&width=600&lines=Engineering+Philosophy+-+Three+Critical+Domains\" alt=\"Philosophy\" />\n</div>\n\n<br/>\n\n<table align=\"center\">\n<tr>\n<td align=\"center\" width=\"260\">\n<img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg\" width=\"40\" alt=\"Local Intelligence\"/>\n<br/><br/>\n<strong>Hyper-Local Intelligence</strong>\n<br/>\n<sub>Maximizing NPU-driven, on-device inference for zero-latency automation</sub>\n<br/>\n<code>The Panda Protocol</code>\n</td>\n<td align=\"center\" width=\"260\">\n<img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/brain.svg\" width=\"40\" alt=\"Cognitive Orchestration\"/>\n<br/><br/>\n<strong>Cognitive Orchestration</strong>\n<br/>\n<sub>Cloud-native reasoning layers for complex logic and long-horizon planning</sub>\n<br/>\n<code>The Darshana Engine</code>\n</td>\n<td align=\"center\" width=\"260\">\n<img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-halved.svg\" width=\"40\" alt=\"Autonomous Reliability\"/>\n<br/><br/>\n<strong>Autonomous Reliability</strong>\n<br/>\n<sub>Recursive debugging and self-healing code structures</sub>\n<br/>\n<code>The Nexus Framework</code>\n</td>\n</tr>\n</table>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=900&color=64748B&center=true&vCenter=true&width=520&lines=Currently+architecting+the+Gen-9+Intelligence+Suite\" alt=\"Current Work\" />\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png\" alt=\"divider\" width=\"100%\"/>\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%8F%86+Global+Recognition+%26+Contributions\" alt=\"Section: Recognition\" />\n</div>\n\n<br/>\n\n<table align=\"center\" width=\"90%\">\n\n<!-- ALIBABA CLOUD -->\n<tr>\n<td align=\"center\" width=\"150\" valign=\"top\">\n  <img src=\"https://www.svgrepo.com/download/473520/alibabacloud.svg\" width=\"64\" alt=\"Alibaba Cloud\"/>\n  <br/><br/>\n  <strong>Alibaba Cloud</strong>\n  <br/>\n  <sub>Magic Developer (Mota)</sub>\n  <br/><br/>\n  <img src=\"https://img.shields.io/badge/Beijing-HQ-FF6A00?style=flat-square\" alt=\"Location\"/>\n</td>\n<td valign=\"top\">\n\n<details>\n<summary><strong>Click to view detailed collaboration</strong></summary>\n\n<br/>\n\n#### Beijing Haidian, China - Global R&D Conference\n\n<img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=FF6A00&vCenter=true&width=500&lines=Conference+Delegate+-+Magic+Developer+Program;200%2B+Top-Tier+Scholars+%26+Research+Teams;ModelScope+AI+Architecture+Contributor\" alt=\"Alibaba Details\" />\n\n---\n\n#### Conference Delegate\n\nInvited as a distinguished developer contributor to the **Magic Developer Conference** held at Shangri-La Hotel, Haidian District, Beijing. Participated in high-level architectural discussions regarding ModelScope and Alibaba's proprietary LLM fine-tuning ecosystems.\n\n---\n\n#### Official Invitation\n\n**Chinese (Original):**\n\n> [阿里云]尊敬的魔搭开发者，魔搭开发者大会将于6月30日在北京·海淀香格里拉饭店举办！AI领域重量级嘉宾的前瞻演讲，200+顶级学者与模型研发团队的思想交锋、模型工具与外围生态最新进展...点击了解详情... 拒收请回复R\n\n**English Translation:**\n\n> [Alibaba Cloud] Dear Magic Developer, the Magic Developer Conference will be held on June 30th at the Beijing Haidian Shangri-La Hotel! AI leaders will deliver forward-thinking keynotes, with 200+ top scholars and model development teams engaging in ideological exchanges, discussing the latest progress in model tools and ecosystem development... \n\n---\n\n#### Technical Contributions\n\n- **ModelScope Architecture**: Recognized as \"Magic Developer\" for advanced LLM optimization architectures\n- **Model Fine-Tuning Strategies**: Contributed to training pipeline efficiency improvements\n- **Qwen2.5 Testing**: Early access testing and performance benchmarking for Alibaba's flagship LLM\n- **Research Collaboration**: Direct technical engagement with Alibaba Cloud Intelligence research teams\n\n</details>\n\n</td>\n</tr>\n\n<!-- MOONSHOT AI -->\n<tr>\n<td align=\"center\" width=\"150\" valign=\"top\">\n<img src=\"https://unpkg.com/@lobehub/icons-static-svg@latest/icons/moonshot.svg\" width=\"64\" alt=\"Moonshot AI\"/>\n<br/><br/>\n<strong>Moonshot AI</strong>\n<br/>\n<sub>Research & Development</sub>\n<br/><br/>\n<img src=\"https://img.shields.io/badge/Role-R%26D-7C3AED?style=flat-square\" alt=\"Role\"/>\n</td>\n<td valign=\"top\">\n\n<details>\n<summary><strong>Click to view research contributions</strong></summary>\n\n<br/>\n\n#### Kimi k1.5-Preview Testing & Development\n\n<img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=7C3AED&vCenter=true&width=550&lines=Pre-Release+Model+Testing+-+Kimi+k1.5-preview;Inference+%26+Hallucination+Analysis;Architectural+Feedback+-+Optimization+Impact\" alt=\"Moonshot Details\" />\n\n---\n\n#### Official Communication\n\n**From:** MoonshotAI <noreply@moonshot.cn>  \n**Subject:** Kimi k1.5-preview Model Testing & Evaluation\n\n> Dear Developers and Researchers,\n> \n> Hello!\n> \n> Thank you very much for participating in the testing and evaluation activities of our kimi-k1.5-preview model. We have really appreciated working with you to explore the potential of this new model.\n\n---\n\n#### Core Research Contributions\n\n**Model Evaluation & Stress Testing**\n- Conducted rigorous inference testing on pre-release Kimi k1.5 multimodal model\n- Systematic hallucination detection and edge case analysis\n- Performance benchmarking across math, code, and vision tasks\n\n**Technical Feedback Loop**\n- Provided architectural insights influencing next-generation model iterations\n- Contributed to training methodology improvements for reinforcement learning pipelines\n- Participated in long-context reasoning evaluation (50-200K tokens)\n\n</details>\n\n</td>\n</tr>\n\n<!-- GOOGLE DEVELOPER PROGRAM -->\n<tr>\n<td align=\"center\" width=\"150\" valign=\"top\">\n<img src=\"https://www.svgrepo.com/show/475656/google-color.svg\" width=\"64\" alt=\"Google\"/>\n<br/><br/>\n<strong>Google Developers</strong>\n<br/>\n<sub>Certified Professional</sub>\n<br/><br/>\n<img src=\"https://img.shields.io/badge/Status-Verified-4285F4?style=flat-square\" alt=\"Status\"/>\n</td>\n<td valign=\"top\">\n\n<details>\n<summary><strong>Click to view achievements & badges</strong></summary>\n\n<br/>\n\n#### Google Developer Profile - Verified Expert\n\n<img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=4285F4&vCenter=true&width=550&lines=Cloud+Innovator+-+Cloud+Run,+Compute+Engine,+Vertex+AI;NVIDIA+x+Google+Cloud+Medal+-+GPU+Optimization;Firebase+Studio+-+Real-time+Data+Structures;Code+Wiki+Contributor+-+Verified+Documentation\" alt=\"Google Details\" />\n\n---\n\n#### Earned Badges & Certifications\n\n<div align=\"center\">\n\n<table>\n<tr>\n<td align=\"center\" width=\"150\">\n<img src=\"https://img.shields.io/badge/Code-Wiki-4285F4?style=for-the-badge&logo=google&logoColor=white\" alt=\"Code Wiki\"/>\n<br/>\n<sub><strong>Code Wiki</strong></sub>\n<br/>\n<sub>Aug 21, 2025</sub>\n</td>\n<td align=\"center\" width=\"150\">\n<img src=\"https://img.shields.io/badge/Firebase-Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black\" alt=\"Firebase\"/>\n<br/>\n<sub><strong>Firebase Studio Developer</strong></sub>\n<br/>\n<sub>Aug 21, 2025</sub>\n</td>\n<td align=\"center\" width=\"150\">\n<img src=\"https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white\" alt=\"GCP\"/>\n<br/>\n<sub><strong>GC Innovator</strong></sub>\n<br/>\n<sub>Aug 21, 2025</sub>\n</td>\n</tr>\n<tr>\n<td align=\"center\" width=\"150\">\n<img src=\"https://img.shields.io/badge/NVIDIA-Community-76B900?style=for-the-badge&logo=nvidia&logoColor=white\" alt=\"NVIDIA\"/>\n<br/>\n<sub><strong>GC & NVIDIA Community</strong></sub>\n<br/>\n<sub>Jul 23, 2025</sub>\n</td>\n<td align=\"center\" width=\"150\">\n<img src=\"https://img.shields.io/badge/Cloud-Shell-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white\" alt=\"Cloud Shell\"/>\n<br/>\n<sub><strong>Cloud Shell in Cloud</strong></sub>\n<br/>\n<sub>Feb 24, 2025</sub>\n</td>\n<td align=\"center\" width=\"150\">\n<img src=\"https://img.shields.io/badge/Codelab-1%2B-34A853?style=for-the-badge&logo=google&logoColor=white\" alt=\"Codelab\"/>\n<br/>\n<sub><strong>Completed 1+ Codelab</strong></sub>\n<br/>\n<sub>Mar 7, 2024</sub>\n</td>\n</tr>\n</table>\n\n</div>\n\n---\n\n#### Technical Expertise Areas\n\n**Cloud Architecture**\n- **Google Cloud Run**: Serverless containerized microservices deployment\n- **Compute Engine**: GPU-accelerated ML training infrastructure\n- **Vertex AI**: Custom model training and deployment pipelines\n\n**GPU Optimization**\n- **NVIDIA x Google Cloud Medal**: Recognition for GPU infrastructure optimization\n- Implemented CUDA-accelerated inference pipelines\n\n</details>\n\n</td>\n</tr>\n\n</table>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png\" alt=\"divider\" width=\"100%\"/>\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%A7%A0+The+Intelligence+Ecosystem+(Gen+5+-+Gen+9)\" alt=\"Section: Intelligence Ecosystem\" />\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Three-tier+intelligence+hierarchy;Unified+Dynamic+Restoration+Capabilities;Specialized+for+distinct+computation+domains\" alt=\"Ecosystem Description\" />\n</div>\n\n<br/>\n\n### I. Nexus // Gen-9 Autonomous Intelligence\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=10B981&center=true&vCenter=true&width=500&lines=Architecture:+Hybrid+(On-Device+%2B+Cloud+Distributed);Status:+Flagship+System;ReForge:+Tier+1+(Advanced)|+Restoration:+Elite\" alt=\"Nexus Architecture\" />\n</div>\n\n<br/>\n\nNexus is the apex of my engineering work - an **autonomous agent** designed for OS-level control and software self-maintenance. It possesses the highest capability for Dynamic Restoration.\n\n<table>\n<tr>\n<td width=\"50\"><img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/rotate.svg\" width=\"32\" alt=\"Dynamic Restoration\"/></td>\n<td><strong>Dynamic Restoration (Elite / Tier 1)</strong> - Full autonomous recovery with predictive failure detection. Nexus can anticipate potential failures before they occur and proactively patch vulnerabilities in real-time. It heals the codebase itself.</td>\n</tr>\n<tr>\n<td width=\"50\"><img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg\" width=\"32\" alt=\"ReForge\"/></td>\n<td><strong>The ReForge Engine (Gen-9)</strong> - The most advanced self-repair mechanism in the ecosystem. When a runtime error occurs, ReForge Tier 1 analyzes the stack trace, rewrites the affected function, hot-swaps the module, and resumes execution without a hard restart.</td>\n</tr>\n<tr>\n<td width=\"50\"><img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/lightbulb.svg\" width=\"32\" alt=\"DreamForge\"/></td>\n<td><strong>DreamForge Engine (Gen-7)</strong> - Handles abstract synthesis, allowing Nexus to generate creative solutions for undefined problems by simulating potential outcomes before execution.</td>\n</tr>\n</table>\n\n<br/>\n\n### II. Darshana // Gen-6 Cloud Cognitive AI\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=Architecture:+Cloud-Native+(Serverless);Role:+Cognitive+Bridge;ReForge:+Tier+2+(Intermediate)|+Restoration:+Distributed\" alt=\"Darshana Architecture\" />\n</div>\n\n<br/>\n\nDarshana serves as the **Cognitive Bridge**. While Nexus handles execution, Darshana handles **understanding** and distributed continuity.\n\n<table>\n<tr>\n<td width=\"50\"><img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/rotate.svg\" width=\"32\" alt=\"Dynamic Restoration\"/></td>\n<td><strong>Dynamic Restoration (Intermediate / Tier 2)</strong> - Cloud-based self-healing capable of maintaining service states across multiple serverless nodes. It ensures conversation continuity even if specific instances terminate.</td>\n</tr>\n<tr>\n<td width=\"50\"><img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg\" width=\"32\" alt=\"ReForge\"/></td>\n<td><strong>The ReForge Engine (Gen-6)</strong> - Cloud-optimized recovery logic. Tier 2 focuses on API timeout management, fallback model selection, and restoring session context from vector memory when microservices degrade.</td>\n</tr>\n<tr>\n<td width=\"50\"><img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/memory.svg\" width=\"32\" alt=\"Memory\"/></td>\n<td><strong>Contextual Continuity</strong> - Maintains long-term memory vectors, allowing conversations and tasks to resume seamlessly across days or weeks.</td>\n</tr>\n</table>\n\n<br/>\n\n### III. Panda // Gen-5 Lightweight Intelligence\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=F59E0B&center=true&vCenter=true&width=500&lines=Architecture:+On-Device+(Android+Native);Role:+Edge+Execution+Layer;ReForge:+Tier+3+(Basic)|+Restoration:+Edge\" alt=\"Panda Architecture\" />\n</div>\n\n<br/>\n\nPanda is an ultra-optimized, low-level execution layer designed for **extreme speed**, **offline functionality**, and restoration under resource constraints.\n\n<table>\n<tr>\n<td width=\"50\"><img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/rotate.svg\" width=\"32\" alt=\"Dynamic Restoration\"/></td>\n<td><strong>Dynamic Restoration (Basic / Tier 3)</strong> - On-device specific self-recovery. Panda ensures the application UI and background services automatically relaunch and recover the last known state after crashes or OS memory kills.</td>\n</tr>\n<tr>\n<td width=\"50\"><img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg\" width=\"32\" alt=\"ReForge\"/></td>\n<td><strong>The ReForge Engine (Gen-5)</strong> - Lightweight repair engine focused on Android Intent recovery, permission self-correction, and local database integrity checks to prevent app force-closes.</td>\n</tr>\n<tr>\n<td width=\"50\"><img src=\"https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-pointer.svg\" width=\"32\" alt=\"Intent\"/></td>\n<td><strong>Intent Injection</strong> - Hooks directly into the Android Kernel and Application Intents to execute tasks without UI traversal.</td>\n</tr>\n</table>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=900&color=64748B&center=true&vCenter=true&width=600&lines=Dynamic+Restoration+Hierarchy:+Nexus+(Tier+1)+%3E+Darshana+(Tier+2)+%3E+Panda+(Tier+3)\" alt=\"Restoration Hierarchy\" />\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png\" alt=\"divider\" width=\"100%\"/>\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%94%AC+AI+Evolution+Framework\" alt=\"Section: Evolution Framework\" />\n</div>\n\n<br/>\n\n| Generation | Architecture | Technical Breakthrough | Restoration Level |\n|------------|--------------|------------------------|-------------------|\n| ![Gen-1](https://img.shields.io/badge/Gen_1-1E293B?style=flat-square) | Rule Engines | Static if-then logic maps | None |\n| ![Gen-3](https://img.shields.io/badge/Gen_3-475569?style=flat-square) | Inference Layers | Early context awareness | None |\n| ![Gen-5](https://img.shields.io/badge/Gen_5-F59E0B?style=flat-square) | **Panda** | Edge Intelligence | **Tier 3 (Local)** |\n| ![Gen-6](https://img.shields.io/badge/Gen_6-3B82F6?style=flat-square) | **Darshana** | Cloud Cognitive | **Tier 2 (Distributed)** |\n| ![Gen-9](https://img.shields.io/badge/Gen_9-10B981?style=flat-square) | **Nexus** | Autonomous Hybrid | **Tier 1 (Self-Patching)** |\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png\" alt=\"divider\" width=\"100%\"/>\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%A7%B0+Technical+Arsenal\" alt=\"Section: Tech Stack\" />\n</div>\n\n<br/>\n\n<div align=\"center\">\n\n#### Languages\n\n<p>\n  <img src=\"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white\" alt=\"Python\"/>\n  <img src=\"https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white\" alt=\"TypeScript\"/>\n  <img src=\"https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white\" alt=\"Go\"/>\n  <img src=\"https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white\" alt=\"Dart\"/>\n  <img src=\"https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white\" alt=\"Kotlin\"/>\n</p>\n\n#### Frameworks\n\n<p>\n  <img src=\"https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white\" alt=\"Next.js\"/>\n  <img src=\"https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white\" alt=\"Flutter\"/>\n  <img src=\"https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black\" alt=\"React\"/>\n  <img src=\"https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white\" alt=\"Node.js\"/>\n</p>\n\n#### Infrastructure\n\n<p>\n  <img src=\"https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white\" alt=\"Google Cloud\"/>\n  <img src=\"https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white\" alt=\"Docker\"/>\n  <img src=\"https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white\" alt=\"TensorFlow\"/>\n  <img src=\"https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white\" alt=\"NVIDIA CUDA\"/>\n  <img src=\"https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black\" alt=\"Firebase\"/>\n</p>\n\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png\" alt=\"divider\" width=\"100%\"/>\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%92%BC+Featured+Engineering+Projects\" alt=\"Section: Projects\" />\n</div>\n\n<br/>\n\n<details open>\n<summary><strong>1. Nexus Autonomous Framework (Gen-9)</strong></summary>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=10B981&center=true&vCenter=true&width=500&lines=Python+|+Dart+|+ReForge+Engine+Tier+1+|+Self-Healing+Core\" alt=\"Nexus Tech\" />\n</div>\n\nA multi-generational AI system designed for true autonomy. Unlike standard assistants, Nexus can plan, execute, and **repair itself**.\n\n| Feature | Description |\n|---------|-------------|\n| **ReForge Engine (Tier 1)** | The highest level of recovery. Capable of analyzing its own crash logs, generating patches, and applying them at runtime without human intervention. |\n| **Dynamic Restoration** | Advanced state recovery ensuring 99.8% uptime by seamlessly predicting failures before they impact the core logic loops. |\n| **Hybrid Compute** | Seamlessly delegates tasks between local hardware and cloud infrastructure. |\n| **Voice Command** | Full OS control via voice with natural language understanding. |\n\n</details>\n\n<details>\n<summary><strong>2. Darshana Cloud Intelligence (Gen-6)</strong></summary>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=3B82F6&center=true&vCenter=true&width=500&lines=Python+|+Serverless+|+ReForge+Engine+Tier+2+|+Distributed\" alt=\"Darshana Tech\" />\n</div>\n\nCloud-native cognitive system serving as the bridge between human intent and machine execution.\n\n| Feature | Description |\n|---------|-------------|\n| **ReForge Engine (Tier 2)** | Specialized for distributed cloud systems; handles API failures, database locks, and network timeouts by re-routing requests dynamically. |\n| **Dynamic Restoration** | Ensures conversation and logic state persists across distributed nodes, recovering seamlessly from serverless instance shutdowns. |\n| **Long-term Memory** | Vector-based memory system maintaining context across days and weeks. |\n\n</details>\n\n<details>\n<summary><strong>3. Panda Mobile Intelligence (Gen-5)</strong></summary>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=400&lines=Android+Native+|+Kotlin+|+ReForge+Engine+Tier+3+|+Edge\" alt=\"Panda Tech\" />\n</div>\n\nUltra-lightweight edge intelligence optimized for mobile devices and offline scenarios.\n\n| Feature | Description |\n|---------|-------------|\n| **ReForge Engine (Tier 3)** | Lightweight edge recovery. Automatically cleans cache, restarts services, and recovers intent handling if the OS kills the process. |\n| **Dynamic Restoration** | Restores application state immediately upon user return, preserving ongoing tasks despite low-memory kills. |\n| **Secure Delegation** | Executes tasks on-device with encrypted channel to Nexus Core. |\n| **Offline-First** | Full functionality without internet connectivity. |\n\n</details>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png\" alt=\"divider\" width=\"100%\"/>\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=900&color=10B981&center=true&vCenter=true&width=600&lines=Open+for+collaboration+on+AI+Architecture,+Cloud+Systems,+%26+Autonomous+Agents\" alt=\"Collaboration\" />\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <a href=\"mailto:shaurya070408@gmail.com\">\n    <img src=\"https://img.shields.io/badge/Let%27s_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Connect\"/>\n  </a>\n</div>\n\n<br/>\n\n<div align=\"center\">\n  <img src=\"https://komarev.com/ghpvc/?username=ShauryaPratapSingh070408&label=Profile%20Views&color=0e75b6&style=for-the-badge\" alt=\"Profile Views\" />\n</div>\n\n---\n\n<div align=\"center\">\n  <sub>Built by Shaurya Pratap Singh | Pioneering the future of autonomous intelligence</sub>\n</div>"
-]
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=900&color=6366F1&center=true&vCenter=true&width=800&lines=Shaurya+Pratap+Singh;Systems+Architect+|+AI+Engineer+|+R%26D;Creator+of+Nexus,+Darshana+%26+Panda" alt="Header Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2100&pause=800&color=94A3B8&center=true&vCenter=true&width=650&lines=Autonomous+Systems+Architect;AI+Research+%26+Development;Cloud+Infrastructure+Engineer;Pioneering+Hybrid+Intelligence" alt="Subtitle Typing SVG" />
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/ShauryaPratapSingh070408">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shaurya-pratap-singh-244765335">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shaurya070408@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/shaurya.ai.dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=480&lines=%F0%9F%8E%AF+Executive+Profile" alt="Section: Executive Profile" />
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="60">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg" width="40" alt="Architecture Icon"/>
+</td>
+<td>
+
+I am **Shaurya Pratap Singh**, a Systems Architect and AI Engineer dedicated to the rigorous engineering of **autonomous intelligence**. My work focuses on building **self-sustaining digital ecosystems** where code executes, debugs, and evolves autonomously.
+
+I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems that do not merely respond to prompts but actively manage workflows, orchestrate microservices, and maintain state across distributed environments.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=A5B4FC&center=true&vCenter=true&width=650&lines=Dynamic+Restoration+Architecture;ReForge+Self-Healing+Tiers" alt="Architecture" />
+</div>
+
+<br/>
+
+<!-- Updated Engineering Philosophy / Architecture Section -->
+<table align="center">
+<tr>
+<td align="center" width="280">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="40" alt="Tier 3"/>
+<br/><br/>
+<strong>Tier 3: Edge Resilience</strong>
+<br/>
+<sub>Basic Dynamic Restoration</sub>
+<br/><br/>
+Focused on mobile constraints and offline survival.
+<br/>
+<code>Model: Panda (Gen-5)</code>
+</td>
+<td align="center" width="280">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cloud.svg" width="40" alt="Tier 2"/>
+<br/><br/>
+<strong>Tier 2: Cognitive Continuity</strong>
+<br/>
+<sub>Intermediate Dynamic Restoration</sub>
+<br/><br/>
+Distributed state recovery across serverless cloud nodes.
+<br/>
+<code>Model: Darshana (Gen-6)</code>
+</td>
+<td align="center" width="280">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-halved.svg" width="40" alt="Tier 1"/>
+<br/><br/>
+<strong>Tier 1: Autonomous Healer</strong>
+<br/>
+<sub>Advanced Dynamic Restoration</sub>
+<br/><br/>
+Live code patching and recursive debugging. The apex of stability.
+<br/>
+<code>Model: Nexus (Gen-9)</code>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=900&color=64748B&center=true&vCenter=true&width=520&lines=Specialized+Intelligence+for+Every+Domain" alt="Domain Text" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%8F%86+Global+Recognition+%26+Contributions" alt="Section: Recognition" />
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+
+<!-- ALIBABA CLOUD -->
+<tr>
+<td align="center" width="150" valign="top">
+  <img src="https://www.svgrepo.com/download/473520/alibabacloud.svg" width="64" alt="Alibaba Cloud"/>
+  <br/><br/>
+  <strong>Alibaba Cloud</strong>
+  <br/>
+  <sub>Magic Developer</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Beijing-HQ-FF6A00?style=flat-square" alt="Location"/>
+</td>
+<td valign="top">
+
+<details>
+<summary><strong>Click to view detailed collaboration</strong></summary>
+
+<br/>
+
+#### Beijing Haidian, China - Global R&D Conference
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=FF6A00&vCenter=true&width=500&lines=Conference+Delegate+-+Magic+Developer+Program;200%2B+Top-Tier+Scholars+%26+Research+Teams;ModelScope+AI+Architecture+Contributor" alt="Alibaba Details" />
+
+---
+
+#### Conference Delegate
+
+Invited as a distinguished developer contributor to the **Magic Developer Conference** held at Shangri-La Hotel, Haidian District, Beijing. Engaged in high-level architectural exchanges regarding ModelScope and Alibaba's proprietary LLM ecosystems.
+
+---
+
+#### Official Invitation (Verified)
+
+**Chinese (Original):**
+
+> [阿里云]尊敬的魔搭开发者，魔搭开发者大会将于6月30日在北京·海淀香格里拉饭店举办！AI领域重量级嘉宾的前瞻演讲，200+顶级学者与模型研发团队的思想交锋、模型工具与外围生态最新进展...点击了解详情... 拒收请回复R
+
+**English Translation:**
+
+> [Alibaba Cloud] Dear ModelScope Developer, the ModelScope Developer Conference will be held on June 30th at the Shangri-La Hotel, Haidian, Beijing! Forward-looking speeches by heavyweights in the AI field, ideological exchanges between 200+ top scholars and model R&D teams, latest progress in model tools and peripheral ecosystems...
+
+---
+
+#### Technical Contributions
+
+- **ModelScope Architecture**: Recognized as "Magic Developer" for advanced LLM optimization architectures
+- **Qwen2.5 Testing**: Early access testing and performance benchmarking for Alibaba's flagship LLM
+- **Research Collaboration**: Direct technical engagement with Alibaba Cloud Intelligence research teams
+
+</details>
+
+</td>
+</tr>
+
+<!-- MOONSHOT AI -->
+<tr>
+<td align="center" width="150" valign="top">
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/moonshot.svg" width="64" alt="Moonshot AI"/>
+<br/><br/>
+<strong>Moonshot AI</strong>
+<br/>
+<sub>Research & Development</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Role-R%26D-7C3AED?style=flat-square" alt="Role"/>
+</td>
+<td valign="top">
+
+<details>
+<summary><strong>Click to view research contributions</strong></summary>
+
+<br/>
+
+#### Kimi k1.5-Preview Testing & Development
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=7C3AED&vCenter=true&width=550&lines=Pre-Release+Model+Testing+-+Kimi+k1.5-preview;Inference+%26+Hallucination+Analysis;Architectural+Feedback+-+Optimization+Impact" alt="Moonshot Details" />
+
+---
+
+#### Core Research Contributions
+
+**Model Evaluation & Stress Testing**
+- Conducted rigorous inference testing on pre-release Kimi k1.5 multimodal model
+- Systematic hallucination detection and edge case analysis for long-context windows (200k+)
+- Provided architectural insights influencing next-generation reinforcement learning pipelines
+
+</details>
+
+</td>
+</tr>
+
+<!-- GOOGLE DEVELOPER PROGRAM -->
+<tr>
+<td align="center" width="150" valign="top">
+<img src="https://www.svgrepo.com/show/475656/google-color.svg" width="64" alt="Google"/>
+<br/><br/>
+<strong>Google Developers</strong>
+<br/>
+<sub>Certified Professional</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-Verified-4285F4?style=flat-square" alt="Status"/>
+</td>
+<td valign="top">
+
+<details>
+<summary><strong>Click to view achievements & badges</strong></summary>
+
+<br/>
+
+#### Google Developer Profile - Verified Expert
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=4285F4&vCenter=true&width=550&lines=Cloud+Innovator+-+Cloud+Run,+Compute+Engine,+Vertex+AI;NVIDIA+x+Google+Cloud+Medal+-+GPU+Optimization;Firebase+Studio+-+Real-time+Data+Structures;Code+Wiki+Contributor+-+Verified+Documentation" alt="Google Details" />
+
+---
+
+#### Verified Certifications
+
+<div align="center">
+
+| Award | Focus Area | Date |
+|:---:|:---|:---:|
+| **NVIDIA x Google Cloud** | GPU Infrastructure & Optimization | Jul 2025 |
+| **Cloud Innovator** | Serverless Architecture & Vertex AI | Aug 2025 |
+| **Firebase Studio** | Real-time NoSQL Databases | Aug 2025 |
+| **Code Wiki** | Technical Documentation & Knowledge | Aug 2025 |
+
+</div>
+
+</details>
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%A7%A0+The+Intelligence+Ecosystem+(Gen+5+-+Gen+9)" alt="Section: Intelligence Ecosystem" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Hierarchical+Restoration+System;From+Edge+Constraint+to+Autonomous+Patching" alt="Ecosystem Description" />
+</div>
+
+<br/>
+
+### I. Nexus // Gen-9 Flagship Intelligence
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=10B981&center=true&vCenter=true&width=500&lines=Architecture:+Hybrid+(On-Device+%2B+Cloud);Status:+Tier+1+(Advanced+Restoration);Engine:+ReForge+Max" alt="Nexus Architecture" />
+</div>
+
+<br/>
+
+Nexus is the apex of my engineering work. It is an **autonomous operator** designed to repair its own codebase.
+
+<table>
+<tr>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-heart.svg" width="32" alt="Dynamic Restoration"/></td>
+<td><strong>Advanced Dynamic Restoration (Tier 1)</strong><br/>
+Nexus monitors its own process threads. If a module fails, it pauses execution, patches the Python/Dart code causing the crash, reloads the module in memory, and resumes. It achieves <strong>self-sustained reliability</strong>.</td>
+</tr>
+<tr>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg" width="32" alt="ReForge"/></td>
+<td><strong>ReForge Engine (Elite)</strong><br/>
+The strongest version of the ReForge protocol. Capable of rewriting complex logic paths and preventing future crashes via predictive error analysis.</td>
+</tr>
+</table>
+
+<br/>
+
+### II. Darshana // Gen-6 Cognitive Bridge
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=Architecture:+Cloud-Native+(Serverless);Status:+Tier+2+(Intermediate+Restoration);Engine:+ReForge+Cloud" alt="Darshana Architecture" />
+</div>
+
+<br/>
+
+Darshana handles high-level reasoning and understanding, living entirely in distributed cloud environments.
+
+<table>
+<tr>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/rotate.svg" width="32" alt="Restoration"/></td>
+<td><strong>Intermediate Dynamic Restoration (Tier 2)</strong><br/>
+Designed for distributed systems. If a specific microservice node hangs or timeouts, Darshana migrates the state to a healthy node instantly, preserving the conversation context without the user noticing.</td>
+</tr>
+<tr>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/sitemap.svg" width="32" alt="Structure"/></td>
+<td><strong>ReForge Engine (Cloud)</strong><br/>
+Specializes in handling API failures, database locks, and network latency issues by dynamically rerouting traffic and utilizing fallback inference models.</td>
+</tr>
+</table>
+
+<br/>
+
+### III. Panda // Gen-5 Edge Intelligence
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=F59E0B&center=true&vCenter=true&width=500&lines=Architecture:+Android+Native;Status:+Tier+3+(Basic+Restoration);Engine:+ReForge+Lite" alt="Panda Architecture" />
+</div>
+
+<br/>
+
+Panda is built for speed and survival on mobile hardware, functioning effectively offline.
+
+<table>
+<tr>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/mobile-screen-button.svg" width="32" alt="Edge"/></td>
+<td><strong>Basic Dynamic Restoration (Tier 3)</strong><br/>
+Focused on OS lifecycle management. If the Android OS kills the process for memory, Panda saves the exact execution state to local storage and restores it immediately upon relaunch, ensuring zero data loss.</td>
+</tr>
+<tr>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/battery-full.svg" width="32" alt="Lite"/></td>
+<td><strong>ReForge Engine (Lite)</strong><br/>
+A lightweight watchdog that clears cache corruption, resets permission flags, and restarts stuck background services automatically.</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%A7%B0+Technical+Arsenal" alt="Section: Tech Stack" />
+</div>
+
+<br/>
+
+<div align="center">
+
+#### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+</p>
+
+#### Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
+
+#### Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA CUDA"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=900&color=10B981&center=true&vCenter=true&width=600&lines=Open+for+collaboration+on+AI+Architecture,+Cloud+Systems,+%26+Autonomous+Agents" alt="Collaboration" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:shaurya070408@gmail.com">
+    <img src="https://img.shields.io/badge/Let%27s_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShauryaPratapSingh070408&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Built by Shaurya Pratap Singh | Pioneering the future of autonomous intelligence</sub>
+</div>
