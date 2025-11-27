@@ -1,5 +1,4 @@
 # Shaurya Pratap Singh
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Shaurya+Pratap+Singh;Systems+Architect+%E2%80%A2+AI+Engineer+%E2%80%A2+R%26D;Creator+of+Nexus%2C+Darshana+%26+Panda" alt="Header Typing SVG" />
 </div>
