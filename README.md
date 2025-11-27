@@ -499,7 +499,3 @@ An intent-based automation framework for Android.
 </div>
 
 <br/>
-
-<div align="center">
-  <sub>
-    
