@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=900&color=6366F1&center=true&vCenter=true&width=800&lines=Shaurya+Pratap+Singh;Systems+Architect+|+AI+Engineer+|+R%26D;Creator+of+Nexus,+Darshana+%26+Panda" alt="Header Typing SVG" />
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2100&pause=800&color=94A3B8&center=true&vCenter=true&width=650&lines=Autonomous+Systems+Architect;AI+Research+%26+Development;Cloud+Infrastructure+Engineer;Pioneering+Hybrid+Intelligence" alt="Subtitle Typing SVG" />
 </div>
