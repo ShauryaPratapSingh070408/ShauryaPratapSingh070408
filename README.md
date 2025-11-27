@@ -246,7 +246,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <table align="center">
 <tr>
 <td align="center" width="150">
-<img src="https://www.svgrepo.com/show/353401/alibaba.svg" width="64" alt="Alibaba Cloud"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/alibaba-cloud.svg" width="64" alt="Alibaba Cloud"/>
 <br/><br/>
 <strong>Alibaba Cloud</strong>
 <br/>
@@ -265,7 +265,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 </tr>
 <tr>
 <td align="center" width="150">
-<img src="https://www.svgrepo.com/show/306500/openai.svg" width="64" alt="Moonshot AI"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/moonshot.svg" width="64" alt="Moonshot AI"/>
 <br/><br/>
 <strong>Moonshot AI</strong>
 <br/>
@@ -460,7 +460,7 @@ An intent-based automation framework for Android.
 <td align="center" width="80">
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bolt.svg" width="48" alt="Latency"/>
 </td>
-<td>
+<td align="left">
 <strong>Remote Delegation Layer</strong>
 <br/>
 <sub>Reducing latency between edge (Panda) and core (Nexus) to sub-100ms</sub>
@@ -470,7 +470,7 @@ An intent-based automation framework for Android.
 <td align="center" width="80">
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/robot.svg" width="48" alt="Agency"/>
 </td>
-<td>
+<td align="left">
 <strong>Next-Gen Agency</strong>
 <br/>
 <sub>Developing "Long-Horizon" agents capable of executing tasks requiring days of monitoring</sub>
