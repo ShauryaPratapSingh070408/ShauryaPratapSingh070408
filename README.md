@@ -169,7 +169,6 @@ I am currently upgrading the **Nexus–Darshana–Panda** ecosystem to Generatio
 </div>
 
 ```bin
-00000000  01 00 01 00  01 11 00 10  01 10 10 01  01 11 00 11  |....ris|
-00000010  01 10 10 00  01 11 01 00  01 10 10 01  00 00 00 00  |hti....|
+01000100 01110010 01101001 01110011 01101000 01110100 01101001  |hti....|
 // MEM_ADDRESS: 0x7FFD_092A
 // SEGMENT_LOADED
