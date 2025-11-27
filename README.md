@@ -54,7 +54,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=A5B4FC&center=true&vCenter=true&width=600&lines=Engineering+Philosophy+%E2%80%94+Three+Critical+Domains" alt="Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=A5B4FC&center=true&vCenter=true&width=600&lines=Engineering+Philosophy+-+Three+Critical+Domains" alt="Philosophy" />
 </div>
 
 <br/>
@@ -131,19 +131,27 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 <br/>
 
-#### Beijing Haidian, China â€” Global R&D Conference
+#### Beijing Haidian, China - Global R&D Conference
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=FF6A00&vCenter=true&width=500&lines=Conference+Delegate+%E2%80%94+Magic+Developer+Program;200%2B+Top-Tier+Scholars+%26+Research+Teams;ModelScope+AI+Architecture+Contributor" alt="Alibaba Details" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=FF6A00&vCenter=true&width=500&lines=Conference+Delegate+-+Magic+Developer+Program;200%2B+Top-Tier+Scholars+%26+Research+Teams;ModelScope+AI+Architecture+Contributor" alt="Alibaba Details" />
+
+---
+
+#### Conference Delegate
+
+Invited as distinguished developer contributor to the **Magic Developer Conference** held at Shangri-La Hotel, Haidian District, Beijing.
 
 ---
 
 #### Official Invitation
 
-**Chinese (åŽŸæ–‡):**
-> [é˜¿é‡Œäº‘] å°Šæ•¬çš„é­”æ­å¼€å‘è€…ï¼Œé­”æ­å¼€å‘è€…å¤§ä¼šå°†äºŽ6æœˆ30æ—¥åœ¨åŒ—äº¬Â·æµ·æ·€é¦™æ ¼é‡Œæ‹‰é¥­åº—ä¸¾åŠžï¼AIé¢†åŸŸé‡é‡çº§å˜‰å®¾çš„å‰çž»æ¼”è®²ï¼Œ200+é¡¶çº§å­¦è€…ä¸Žæ¨¡åž‹ç ”å‘å›¢é˜Ÿçš„æ€æƒ³äº¤é”‹ã€æ¨¡åž‹å·¥å…·ä¸Žå¤–å›´ç”Ÿæ€æœ€æ–°è¿›å±•...ç‚¹å‡»äº†è§£è¯¦æƒ…
+**Chinese (Original):**
+
+[é˜¿é‡Œäº‘] å°Šæ•¬çš„é­”æ­å¼€å‘è€…ï¼Œé­”æ­å¼€å‘è€…å¤§ä¼šå°†äºŽ6æœˆ30æ—¥åœ¨åŒ—äº¬Â·æµ·æ·€é¦™æ ¼é‡Œæ‹‰é¥­åº—ä¸¾åŠžï¼AIé¢†åŸŸé‡é‡çº§å˜‰å®¾çš„å‰çž»æ¼”è®²ï¼Œ200+é¡¶çº§å­¦è€…ä¸Žæ¨¡åž‹ç ”å‘å›¢é˜Ÿçš„æ€æƒ³äº¤é”‹ã€æ¨¡åž‹å·¥å…·ä¸Žå¤–å›´ç”Ÿæ€æœ€æ–°è¿›å±•...ç‚¹å‡»äº†è§£è¯¦æƒ…
 
 **English Translation:**
-> [Alibaba Cloud] Dear Magic Developer, the Magic Developer Conference will be held on June 30th at the Beijing Haidian Shangri-La Hotel! AI leaders delivering forward-thinking keynotes, 200+ top scholars and model development teams engaging in ideological exchanges, latest progress in model tools and ecosystem development...
+
+[Alibaba Cloud] Dear Magic Developer, the Magic Developer Conference will be held on June 30th at the Beijing Haidian Shangri-La Hotel! AI leaders delivering forward-thinking keynotes, 200+ top scholars and model development teams engaging in ideological exchanges, latest progress in model tools and ecosystem development...
 
 ---
 
@@ -186,7 +194,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 #### Kimi k1.5-Preview Testing & Development
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=7C3AED&vCenter=true&width=550&lines=Pre-Release+Model+Testing+%E2%80%94+Kimi+k1.5-preview;Inference+%26+Hallucination+Analysis;Architectural+Feedback+%E2%80%94+Optimization+Impact" alt="Moonshot Details" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=7C3AED&vCenter=true&width=550&lines=Pre-Release+Model+Testing+-+Kimi+k1.5-preview;Inference+%26+Hallucination+Analysis;Architectural+Feedback+-+Optimization+Impact" alt="Moonshot Details" />
 
 ---
 
@@ -195,11 +203,11 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 **From:** MoonshotAI <noreply@moonshot.cn>  
 **Subject:** Kimi k1.5-preview Model Testing & Evaluation
 
-> *Dear Developers and Researchers,*
+> Dear Developers and Researchers,
 > 
-> *Hello!*
+> Hello!
 > 
-> *Thank you very much for participating in the testing and evaluation activities of our **kimi-k1.5-preview** model. We have really appreciated working with you to explore the potential of this new model.*
+> Thank you very much for participating in the testing and evaluation activities of our kimi-k1.5-preview model. We have really appreciated working with you to explore the potential of this new model.
 
 ---
 
@@ -259,9 +267,9 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 <br/>
 
-#### Google Developer Profile â€” Verified Expert
+#### Google Developer Profile - Verified Expert
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=4285F4&vCenter=true&width=550&lines=Cloud+Innovator+%E2%80%94+Cloud+Run%2C+Compute+Engine%2C+Vertex+AI;NVIDIA+x+Google+Cloud+Medal+%E2%80%94+GPU+Optimization;Firebase+Studio+%E2%80%94+Real-time+Data+Structures;Code+Wiki+Contributor+%E2%80%94+Verified+Documentation" alt="Google Details" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=4285F4&vCenter=true&width=550&lines=Cloud+Innovator+-+Cloud+Run,+Compute+Engine,+Vertex+AI;NVIDIA+x+Google+Cloud+Medal+-+GPU+Optimization;Firebase+Studio+-+Real-time+Data+Structures;Code+Wiki+Contributor+-+Verified+Documentation" alt="Google Details" />
 
 ---
 
@@ -334,17 +342,17 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 #### Technical Expertise Areas
 
 **Cloud Architecture**
-- **Google Cloud Run**: Serverless containerized microservices deployment
-- **Compute Engine**: GPU-accelerated ML training infrastructure
-- **Vertex AI**: Custom model training and deployment pipelines
+- Google Cloud Run: Serverless containerized microservices deployment
+- Compute Engine: GPU-accelerated ML training infrastructure
+- Vertex AI: Custom model training and deployment pipelines
 
 **GPU Optimization**
-- **NVIDIA x Google Cloud Medal**: Recognition for GPU infrastructure optimization
+- NVIDIA x Google Cloud Medal: Recognition for GPU infrastructure optimization
 - Implemented CUDA-accelerated inference pipelines
 - Multi-GPU distributed training architectures
 
 **Real-Time Systems**
-- **Firebase**: Real-time database architecture and Firestore optimization
+- Firebase: Real-time database architecture and Firestore optimization
 - Cloud Functions for serverless event-driven systems
 - Authentication and security infrastructure
 
@@ -377,13 +385,13 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%A7%A0+The+Intelligence+Ecosystem+(Gen+5+%E2%80%94+Gen+9)" alt="Section: Intelligence Ecosystem" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%A7%A0+The+Intelligence+Ecosystem+(Gen+5+-+Gen+9)" alt="Section: Intelligence Ecosystem" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Three-tier+intelligence+hierarchy;Specialized+for+specific+hardware+constraints;Functions+as+a+singular%2C+cohesive+organism" alt="Ecosystem Description" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Three-tier+intelligence+hierarchy;Specialized+for+specific+hardware+constraints;Functions+as+a+singular,+cohesive+organism" alt="Ecosystem Description" />
 </div>
 
 <br/>
@@ -391,21 +399,21 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 ### I. Nexus // Gen-9 Autonomous Intelligence
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=10B981&center=true&vCenter=true&width=500&lines=Architecture%3A+Hybrid+(On-Device+%2B+Cloud+Distributed);Status%3A+Flagship+System" alt="Nexus Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=10B981&center=true&vCenter=true&width=500&lines=Architecture:+Hybrid+(On-Device+%2B+Cloud+Distributed);Status:+Flagship+System" alt="Nexus Architecture" />
 </div>
 
 <br/>
 
-Nexus is the apex of my engineering workâ€”an **autonomous agent** designed for OS-level control and software self-maintenance. It is not a chatbot; it is a **digital operator**.
+Nexus is the apex of my engineering work - an **autonomous agent** designed for OS-level control and software self-maintenance. It is not a chatbot; it is a **digital operator**.
 
 <table>
 <tr>
 <td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg" width="32" alt="ReForge"/></td>
-<td><strong>The ReForge Engine (Gen-8)</strong> â€” A proprietary self-repair mechanism. When Nexus encounters a runtime error, ReForge analyzes the stack trace, generates a patch, applies it, and restarts the processâ€”dynamically healing its own codebase.</td>
+<td><strong>The ReForge Engine (Gen-8)</strong> - A proprietary self-repair mechanism. When Nexus encounters a runtime error, ReForge analyzes the stack trace, generates a patch, applies it, and restarts the process - dynamically healing its own codebase.</td>
 </tr>
 <tr>
 <td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/lightbulb.svg" width="32" alt="DreamForge"/></td>
-<td><strong>DreamForge Engine (Gen-7)</strong> â€” Handles abstract synthesis, allowing Nexus to generate creative solutions for undefined problems by simulating potential outcomes before execution.</td>
+<td><strong>DreamForge Engine (Gen-7)</strong> - Handles abstract synthesis, allowing Nexus to generate creative solutions for undefined problems by simulating potential outcomes before execution.</td>
 </tr>
 </table>
 
@@ -429,7 +437,7 @@ Nexus is the apex of my engineering workâ€”an **autonomous agent** designed
 ### II. Darshana // Gen-6 Cloud Cognitive AI
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=3B82F6&center=true&vCenter=true&width=400&lines=Architecture%3A+Cloud-Native+(Serverless);Role%3A+Cognitive+Bridge" alt="Darshana Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=3B82F6&center=true&vCenter=true&width=400&lines=Architecture:+Cloud-Native+(Serverless);Role:+Cognitive+Bridge" alt="Darshana Architecture" />
 </div>
 
 <br/>
@@ -439,15 +447,15 @@ Darshana serves as the **Cognitive Bridge**. While Nexus handles execution, Dars
 <table>
 <tr>
 <td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/memory.svg" width="32" alt="Memory"/></td>
-<td><strong>Contextual Continuity</strong> â€” Maintains long-term memory vectors, allowing conversations and tasks to resume seamlessly across days or weeks.</td>
+<td><strong>Contextual Continuity</strong> - Maintains long-term memory vectors, allowing conversations and tasks to resume seamlessly across days or weeks.</td>
 </tr>
 <tr>
 <td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/comments.svg" width="32" alt="Nuance"/></td>
-<td><strong>Nuanced Interaction</strong> â€” Designed to parse subtext, tone, and implied intent, acting as the primary interface for human-centric communication.</td>
+<td><strong>Nuanced Interaction</strong> - Designed to parse subtext, tone, and implied intent, acting as the primary interface for human-centric communication.</td>
 </tr>
 <tr>
 <td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cloud.svg" width="32" alt="Platform"/></td>
-<td><strong>Platform Agnostic</strong> â€” Runs as a cloud service accessible via API endpoints on Phones, PCs, and Laptops.</td>
+<td><strong>Platform Agnostic</strong> - Runs as a cloud service accessible via API endpoints on Phones, PCs, and Laptops.</td>
 </tr>
 </table>
 
@@ -456,7 +464,7 @@ Darshana serves as the **Cognitive Bridge**. While Nexus handles execution, Dars
 ### III. Panda // Gen-5 Lightweight Intelligence
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=F59E0B&center=true&vCenter=true&width=450&lines=Architecture%3A+On-Device+(Android+Native);Role%3A+Edge+Execution+Layer" alt="Panda Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=F59E0B&center=true&vCenter=true&width=450&lines=Architecture:+On-Device+(Android+Native);Role:+Edge+Execution+Layer" alt="Panda Architecture" />
 </div>
 
 <br/>
@@ -466,11 +474,11 @@ Panda is an ultra-optimized, low-level execution layer designed for **extreme sp
 <table>
 <tr>
 <td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-pointer.svg" width="32" alt="Intent"/></td>
-<td><strong>Intent Injection</strong> â€” Hooks directly into the Android Kernel and Application Intents to execute tasks without UI traversal.</td>
+<td><strong>Intent Injection</strong> - Hooks directly into the Android Kernel and Application Intents to execute tasks without UI traversal.</td>
 </tr>
 <tr>
 <td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/door-open.svg" width="32" alt="Gateway"/></td>
-<td><strong>The Gateway Protocol</strong> â€” Functions as the edge node. If a query is too complex for local processing, it automatically routes to the Nexus Cloud Core.</td>
+<td><strong>The Gateway Protocol</strong> - Functions as the edge node. If a query is too complex for local processing, it automatically routes to the Nexus Cloud Core.</td>
 </tr>
 </table>
 
@@ -499,7 +507,7 @@ Panda is an ultra-optimized, low-level execution layer designed for **extreme sp
 | ![Gen-1](https://img.shields.io/badge/Gen_1-1E293B?style=flat-square) | Rule Engines | Static if-then logic maps and direct command execution |
 | ![Gen-2](https://img.shields.io/badge/Gen_2-334155?style=flat-square) | Neural Basics | Introduction of pattern recognition and simple heuristic models |
 | ![Gen-3](https://img.shields.io/badge/Gen_3-475569?style=flat-square) | Inference Layers | Early context awareness and session-based memory |
-| ![Gen-4](https://img.shields.io/badge/Gen_4-64748B?style=flat-square) | Modular Pipelines | Decoupling of processing layers (Input â†’ Logic â†’ Output) |
+| ![Gen-4](https://img.shields.io/badge/Gen_4-64748B?style=flat-square) | Modular Pipelines | Decoupling of processing layers (Input to Logic to Output) |
 | ![Gen-5](https://img.shields.io/badge/Gen_5-F59E0B?style=flat-square) | **Panda** | Lightweight, edge-optimized intelligence on mobile NPUs |
 | ![Gen-6](https://img.shields.io/badge/Gen_6-3B82F6?style=flat-square) | **Darshana** | Cloud-augmented cognitive systems with emotional weighting |
 | ![Gen-7](https://img.shields.io/badge/Gen_7-8B5CF6?style=flat-square) | Neuro-Empathic | Multi-engine synthesis merging DreamForge with Logic |
@@ -521,7 +529,7 @@ Panda is an ultra-optimized, low-level execution layer designed for **extreme sp
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&lines=Chosen+for+scalability%2C+type+safety%2C+and+concurrency" alt="Tech Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&lines=Chosen+for+scalability,+type+safety,+and+concurrency" alt="Tech Philosophy" />
 </div>
 
 <br/>
@@ -579,7 +587,7 @@ Panda is an ultra-optimized, low-level execution layer designed for **extreme sp
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=10B981&center=true&vCenter=true&width=500&lines=Python+%E2%80%A2+Dart+%E2%80%A2+Google+Cloud+Functions+%E2%80%A2+Local+Inference" alt="Nexus Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=10B981&center=true&vCenter=true&width=500&lines=Python+|+Dart+|+Google+Cloud+Functions+|+Local+Inference" alt="Nexus Tech" />
 </div>
 
 A multi-generational AI system designed for true autonomy. Unlike standard assistants that require distinct prompts, Nexus can **plan workflows**.
@@ -599,7 +607,7 @@ A multi-generational AI system designed for true autonomy. Unlike standard assis
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=3B82F6&center=true&vCenter=true&width=350&lines=NodeJS+%E2%80%A2+Go+%E2%80%A2+Cloud+Run" alt="CloudWorker Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=3B82F6&center=true&vCenter=true&width=350&lines=NodeJS+|+Go+|+Cloud+Run" alt="CloudWorker Tech" />
 </div>
 
 A high-availability, distributed control layer for microservices.
@@ -618,7 +626,7 @@ A high-availability, distributed control layer for microservices.
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=400&lines=Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python" alt="Orchestrator Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=400&lines=Next.js+|+TypeScript+|+Python" alt="Orchestrator Tech" />
 </div>
 
 An advanced routing middleware that sits between user prompts and underlying models.
@@ -637,7 +645,7 @@ An advanced routing middleware that sits between user prompts and underlying mod
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=400&lines=Android+Native+%E2%80%A2+Kotlin+%E2%80%A2+Java" alt="Panda Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=400&lines=Android+Native+|+Kotlin+|+Java" alt="Panda Tech" />
 </div>
 
 An intent-based automation framework for Android.
@@ -665,7 +673,7 @@ An intent-based automation framework for Android.
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&lines=Currently+upgrading+Nexus%E2%80%93Darshana%E2%80%93Panda+to+Gen+9.5" alt="Roadmap Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&lines=Currently+upgrading+Nexus-Darshana-Panda+to+Gen+9.5" alt="Roadmap Status" />
 </div>
 
 <br/>
@@ -712,7 +720,7 @@ An intent-based automation framework for Android.
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=900&color=10B981&center=true&vCenter=true&width=600&lines=Open+for+collaboration+on+AI+Architecture%2C+Cloud+Systems%2C+%26+Autonomous+Agents" alt="Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=900&color=10B981&center=true&vCenter=true&width=600&lines=Open+for+collaboration+on+AI+Architecture,+Cloud+Systems,+%26+Autonomous+Agents" alt="Collaboration" />
 </div>
 
 <br/>
@@ -732,5 +740,5 @@ An intent-based automation framework for Android.
 ---
 
 <div align="center">
-  <sub>Built with â¤ï¸ by Shaurya Pratap Singh â€¢ Pioneering the future of autonomous intelligence</sub>
+  <sub>Built by Shaurya Pratap Singh | Pioneering the future of autonomous intelligence</sub>
 </div>
