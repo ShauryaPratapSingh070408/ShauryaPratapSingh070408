@@ -70,7 +70,7 @@ Whether it's architecting frameworks for recursive self-healing or pioneering mu
 <br/><br/>
 <strong>Hyper-Local Intelligence</strong>
 <br/>
-<sub>Maximizing NPU-driven, on-device inference for zero-latency automation and privacy-preserving edge execution</sub>
+<sub>Preserving edge execution</sub>
 <br/>
 <code>The Panda Protocol</code>
 </td>
@@ -79,7 +79,7 @@ Whether it's architecting frameworks for recursive self-healing or pioneering mu
 <br/><br/>
 <strong>Cognitive Orchestration</strong>
 <br/>
-<sub>Cloud-native reasoning layers for complex logic, multi-agent coordination, and long-horizon strategic planning</sub>
+<sub>Strategic planning</sub>
 <br/>
 <code>The Darshana Engine</code>
 </td>
@@ -88,7 +88,7 @@ Whether it's architecting frameworks for recursive self-healing or pioneering mu
 <br/><br/>
 <strong>Autonomous Reliability</strong>
 <br/>
-<sub>Recursive debugging, predictive failure mitigation, and self-healing code structures for mission-critical systems</sub>
+<sub>Mission critical systems</sub>
 <br/>
 <code>The Nexus Framework</code>
 </td>
@@ -147,7 +147,9 @@ Invited as a distinguished developer contributor to the Magic Developer Conferen
 
 **Chinese (Original):**
 
+```
 [阿里云] 尊敬的魔搭开发者，魔搭开发者大会将于6月30日在北京·海淀香格里拉饭店举办！AI领域重量级嘉宾的精彩演讲，200+顶级学者与模型研发团队的思想碰撞、模型工具与生态最新进展...点击了解详情
+```
 
 **English Translation:**
 
