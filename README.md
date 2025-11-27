@@ -36,7 +36,7 @@
 <table align="center">
 <tr>
 <td width="60">
-<img src="https://www.svgrepo.com/show/374171/vscode.svg" width="40" alt="Architecture Icon"/>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg" width="40" alt="Architecture Icon"/>
 </td>
 <td>
 
@@ -59,7 +59,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <table align="center">
 <tr>
 <td align="center" width="300">
-<img src="https://www.svgrepo.com/show/374035/reacttemplate.svg" width="48" alt="Local Intelligence"/>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="48" alt="Local Intelligence"/>
 <br/><br/>
 <strong>Hyper-Local Intelligence</strong>
 <br/>
@@ -68,7 +68,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <code>The Panda Protocol</code>
 </td>
 <td align="center" width="300">
-<img src="https://www.svgrepo.com/show/353659/docker-icon.svg" width="48" alt="Cognitive Orchestration"/>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/brain.svg" width="48" alt="Cognitive Orchestration"/>
 <br/><br/>
 <strong>Cognitive Orchestration</strong>
 <br/>
@@ -77,7 +77,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <code>The Darshana Engine</code>
 </td>
 <td align="center" width="300">
-<img src="https://www.svgrepo.com/show/374016/pipeline.svg" width="48" alt="Autonomous Reliability"/>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-halved.svg" width="48" alt="Autonomous Reliability"/>
 <br/><br/>
 <strong>Autonomous Reliability</strong>
 <br/>
@@ -114,7 +114,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 <br/>
 
-### <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="24" alt="Nexus"/> &nbsp; **I. Nexus // Gen-9 Autonomous Intelligence**
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/network-wired.svg" width="24" alt="Nexus"/> &nbsp; **I. Nexus // Gen-9 Autonomous Intelligence**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=500&lines=Architecture%3A+Hybrid+(On-Device+%2B+Cloud+Distributed);Status%3A+Flagship+System" alt="Nexus Architecture" />
@@ -126,11 +126,11 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 <table>
 <tr>
-<td width="50"><img src="https://www.svgrepo.com/show/373623/git.svg" width="32" alt="ReForge"/></td>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg" width="32" alt="ReForge"/></td>
 <td><strong>The ReForge Engine (Gen-8)</strong> — A proprietary self-repair mechanism. When Nexus encounters a runtime error, ReForge analyzes the stack trace, generates a patch, applies it, and restarts the process—dynamically healing its own codebase.</td>
 </tr>
 <tr>
-<td width="50"><img src="https://www.svgrepo.com/show/374118/terraform.svg" width="32" alt="DreamForge"/></td>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/lightbulb.svg" width="32" alt="DreamForge"/></td>
 <td><strong>DreamForge Engine (Gen-7)</strong> — Handles abstract synthesis, allowing Nexus to generate creative solutions for undefined problems by simulating potential outcomes before execution.</td>
 </tr>
 </table>
@@ -141,15 +141,15 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 | Capability | Description |
 |:---|:---|
-| <img src="https://www.svgrepo.com/show/373969/onenote.svg" width="16"/> Voice Control | Full voice-based operating system control (file manipulation, coding, system config) |
-| <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" width="16"/> Self-Maintenance | Autonomous writing, debugging, and maintaining of complex software repositories |
-| <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width="16"/> Dynamic Load | Seamless shifting between local NPU processing and cloud GPU clusters based on task complexity |
+| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microphone.svg" width="16"/> Voice Control | Full voice-based operating system control (file manipulation, coding, system config) |
+| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/screwdriver-wrench.svg" width="16"/> Self-Maintenance | Autonomous writing, debugging, and maintaining of complex software repositories |
+| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" width="16"/> Dynamic Load | Seamless shifting between local NPU processing and cloud GPU clusters based on task complexity |
 
 </details>
 
 <br/>
 
-### <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="24" alt="Darshana"/> &nbsp; **II. Darshana // Gen-6 Cloud Cognitive AI**
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/eye.svg" width="24" alt="Darshana"/> &nbsp; **II. Darshana // Gen-6 Cloud Cognitive AI**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=400&lines=Architecture%3A+Cloud-Native+(Serverless);Role%3A+Cognitive+Bridge" alt="Darshana Architecture" />
@@ -161,22 +161,22 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 <table>
 <tr>
-<td width="50"><img src="https://www.svgrepo.com/show/353735/firebase.svg" width="32" alt="Memory"/></td>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/memory.svg" width="32" alt="Memory"/></td>
 <td><strong>Contextual Continuity</strong> — Maintains long-term memory vectors, allowing conversations and tasks to resume seamlessly across days or weeks.</td>
 </tr>
 <tr>
-<td width="50"><img src="https://www.svgrepo.com/show/374171/vscode.svg" width="32" alt="Nuance"/></td>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/comments.svg" width="32" alt="Nuance"/></td>
 <td><strong>Nuanced Interaction</strong> — Designed to parse subtext, tone, and implied intent, acting as the primary interface for human-centric communication.</td>
 </tr>
 <tr>
-<td width="50"><img src="https://www.svgrepo.com/show/353478/cloudflare.svg" width="32" alt="Platform"/></td>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cloud.svg" width="32" alt="Platform"/></td>
 <td><strong>Platform Agnostic</strong> — Runs as a cloud service accessible via API endpoints on Phones, PCs, and Laptops.</td>
 </tr>
 </table>
 
 <br/>
 
-### <img src="https://www.svgrepo.com/show/373595/flutter.svg" width="24" alt="Panda"/> &nbsp; **III. Panda // Gen-5 Lightweight Intelligence**
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/android.svg" width="24" alt="Panda"/> &nbsp; **III. Panda // Gen-5 Lightweight Intelligence**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2500&pause=800&color=F59E0B&center=true&vCenter=true&width=450&lines=Architecture%3A+On-Device+(Android+Native);Role%3A+Edge+Execution+Layer" alt="Panda Architecture" />
@@ -188,11 +188,11 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 <table>
 <tr>
-<td width="50"><img src="https://www.svgrepo.com/show/353915/kotlin-icon.svg" width="32" alt="Intent"/></td>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-pointer.svg" width="32" alt="Intent"/></td>
 <td><strong>Intent Injection</strong> — Hooks directly into the Android Kernel and Application Intents to execute tasks without UI traversal.</td>
 </tr>
 <tr>
-<td width="50"><img src="https://www.svgrepo.com/show/374171/vscode.svg" width="32" alt="Gateway"/></td>
+<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/door-open.svg" width="32" alt="Gateway"/></td>
 <td><strong>The Gateway Protocol</strong> — Functions as the edge node. If a query is too complex for local processing, it automatically routes to the Nexus Cloud Core.</td>
 </tr>
 </table>
@@ -368,7 +368,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <br/>
 
 <details open>
-<summary><img src="https://www.svgrepo.com/show/374016/pipeline.svg" width="20" alt="Nexus"/> <strong>1. Nexus Autonomous Framework</strong></summary>
+<summary><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/network-wired.svg" width="20" alt="Nexus"/> <strong>1. Nexus Autonomous Framework</strong></summary>
 <br/>
 
 <div align="center">
@@ -385,7 +385,7 @@ A multi-generational AI system designed for true autonomy. Unlike standard assis
 </details>
 
 <details>
-<summary><img src="https://www.svgrepo.com/show/353659/docker-icon.svg" width="20" alt="CloudWorker"/> <strong>2. CloudWorker Microservice Engine</strong></summary>
+<summary><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" width="20" alt="CloudWorker"/> <strong>2. CloudWorker Microservice Engine</strong></summary>
 <br/>
 
 <div align="center">
@@ -402,7 +402,7 @@ A high-availability, distributed control layer for microservices.
 </details>
 
 <details>
-<summary><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="20" alt="Orchestrator"/> <strong>3. LLM Multimodel Orchestrator</strong></summary>
+<summary><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" alt="Orchestrator"/> <strong>3. LLM Multimodel Orchestrator</strong></summary>
 <br/>
 
 <div align="center">
@@ -419,7 +419,7 @@ An advanced routing middleware that sits between user prompts and underlying mod
 </details>
 
 <details>
-<summary><img src="https://www.svgrepo.com/show/353915/kotlin-icon.svg" width="20" alt="Panda"/> <strong>4. Panda Automation Toolkit</strong></summary>
+<summary><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/android.svg" width="20" alt="Panda"/> <strong>4. Panda Automation Toolkit</strong></summary>
 <br/>
 
 <div align="center">
@@ -458,7 +458,7 @@ An intent-based automation framework for Android.
 <table align="center">
 <tr>
 <td align="center" width="80">
-<img src="https://www.svgrepo.com/show/353478/cloudflare.svg" width="48" alt="Latency"/>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bolt.svg" width="48" alt="Latency"/>
 </td>
 <td>
 <strong>Remote Delegation Layer</strong>
@@ -468,7 +468,7 @@ An intent-based automation framework for Android.
 </tr>
 <tr>
 <td align="center" width="80">
-<img src="https://www.svgrepo.com/show/374118/terraform.svg" width="48" alt="Agency"/>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/robot.svg" width="48" alt="Agency"/>
 </td>
 <td>
 <strong>Next-Gen Agency</strong>
