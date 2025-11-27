@@ -127,17 +127,17 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <td valign="top">
 
 <details>
-<summary><strong>ðŸŽ¯ Click to view detailed collaboration</strong></summary>
+<summary><strong>Click to view detailed collaboration</strong></summary>
 
 <br/>
 
-#### ðŸ“ Beijing Haidian, China â€” Global R&D Conference
+#### Beijing Haidian, China â€” Global R&D Conference
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=FF6A00&vCenter=true&width=500&lines=Conference+Delegate+%E2%80%94+Magic+Developer+Program;200%2B+Top-Tier+Scholars+%26+Research+Teams;ModelScope+AI+Architecture+Contributor" alt="Alibaba Details" />
 
 ---
 
-#### ðŸ“¨ Official Invitation
+#### Official Invitation
 
 **Chinese (åŽŸæ–‡):**
 > [é˜¿é‡Œäº‘] å°Šæ•¬çš„é­”æ­å¼€å‘è€…ï¼Œé­”æ­å¼€å‘è€…å¤§ä¼šå°†äºŽ6æœˆ30æ—¥åœ¨åŒ—äº¬Â·æµ·æ·€é¦™æ ¼é‡Œæ‹‰é¥­åº—ä¸¾åŠžï¼AIé¢†åŸŸé‡é‡çº§å˜‰å®¾çš„å‰çž»æ¼”è®²ï¼Œ200+é¡¶çº§å­¦è€…ä¸Žæ¨¡åž‹ç ”å‘å›¢é˜Ÿçš„æ€æƒ³äº¤é”‹ã€æ¨¡åž‹å·¥å…·ä¸Žå¤–å›´ç”Ÿæ€æœ€æ–°è¿›å±•...ç‚¹å‡»äº†è§£è¯¦æƒ…
@@ -147,14 +147,14 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 ---
 
-#### ðŸ—ï¸ Technical Contributions
+#### Technical Contributions
 
 - **ModelScope Architecture**: Recognized as "Magic Developer" for advanced LLM optimization architectures
 - **Model Fine-Tuning Strategies**: Contributed to training pipeline efficiency improvements
 - **Qwen2.5 Testing**: Early access testing and performance benchmarking for Alibaba's flagship LLM
 - **Research Collaboration**: Direct technical engagement with Alibaba Cloud Intelligence research teams
 
-#### ðŸŽ“ Conference Highlights
+#### Conference Highlights
 
 - **Venue**: Shangri-La Hotel, Haidian District, Beijing
 - **Scale**: 200+ leading scholars and AI researchers
@@ -180,17 +180,17 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <td valign="top">
 
 <details>
-<summary><strong>ðŸ”¬ Click to view research contributions</strong></summary>
+<summary><strong>Click to view research contributions</strong></summary>
 
 <br/>
 
-#### ðŸ§ª Kimi k1.5-Preview Testing & Development
+#### Kimi k1.5-Preview Testing & Development
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=7C3AED&vCenter=true&width=550&lines=Pre-Release+Model+Testing+%E2%80%94+Kimi+k1.5-preview;Inference+%26+Hallucination+Analysis;Architectural+Feedback+%E2%80%94+Optimization+Impact" alt="Moonshot Details" />
 
 ---
 
-#### ðŸ“§ Official Communication
+#### Official Communication
 
 **From:** MoonshotAI <noreply@moonshot.cn>  
 **Subject:** Kimi k1.5-preview Model Testing & Evaluation
@@ -203,7 +203,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 ---
 
-#### ðŸŽ¯ Core Research Contributions
+#### Core Research Contributions
 
 **Model Evaluation & Stress Testing**
 - Conducted rigorous inference testing on pre-release Kimi k1.5 multimodal model
@@ -220,7 +220,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 - Evaluated API performance and latency optimization strategies
 - Contributed to multimodal data processing workflows
 
-#### ðŸ“Š Key Model Specifications (Kimi k1.5)
+#### Key Model Specifications (Kimi k1.5)
 
 | Feature | Performance |
 |---------|-------------|
@@ -230,7 +230,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 | **Modalities** | Text, Vision, Code |
 | **Context Length** | 200K+ tokens |
 
-#### ðŸš€ Technical Impact
+#### Technical Impact
 
 - Early access to o1-level multimodal reasoning model
 - Direct contribution to model refinement before public release
@@ -255,17 +255,17 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 <td valign="top">
 
 <details>
-<summary><strong>ðŸ… Click to view achievements & badges</strong></summary>
+<summary><strong>Click to view achievements & badges</strong></summary>
 
 <br/>
 
-#### ðŸŽ–ï¸ Google Developer Profile â€” Verified Expert
+#### Google Developer Profile â€” Verified Expert
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=4285F4&vCenter=true&width=550&lines=Cloud+Innovator+%E2%80%94+Cloud+Run%2C+Compute+Engine%2C+Vertex+AI;NVIDIA+x+Google+Cloud+Medal+%E2%80%94+GPU+Optimization;Firebase+Studio+%E2%80%94+Real-time+Data+Structures;Code+Wiki+Contributor+%E2%80%94+Verified+Documentation" alt="Google Details" />
 
 ---
 
-#### ðŸ† Earned Badges & Certifications
+#### Earned Badges & Certifications
 
 <div align="center">
 
@@ -331,7 +331,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 ---
 
-#### ðŸ› ï¸ Technical Expertise Areas
+#### Technical Expertise Areas
 
 **Cloud Architecture**
 - **Google Cloud Run**: Serverless containerized microservices deployment
@@ -353,13 +353,13 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 - Community contributions to Google Developer resources
 - Open-source project integration with GCP services
 
-#### ðŸ“š Learning Path Completion
+#### Learning Path Completion
 
-- âœ… Cloud Infrastructure Design
-- âœ… Serverless Application Development
-- âœ… ML Model Deployment & Serving
-- âœ… Real-time Data Processing
-- âœ… GPU-Accelerated Computing
+- Cloud Infrastructure Design
+- Serverless Application Development
+- ML Model Deployment & Serving
+- Real-time Data Processing
+- GPU-Accelerated Computing
 
 </details>
 
@@ -388,7 +388,7 @@ I operate at the bleeding edge of **Hybrid AI Architecture**, designing systems 
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/network-wired.svg" width="24" alt="Nexus"/> &nbsp; I. Nexus // Gen-9 Autonomous Intelligence
+### I. Nexus // Gen-9 Autonomous Intelligence
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=10B981&center=true&vCenter=true&width=500&lines=Architecture%3A+Hybrid+(On-Device+%2B+Cloud+Distributed);Status%3A+Flagship+System" alt="Nexus Architecture" />
@@ -416,17 +416,17 @@ Nexus is the apex of my engineering workâ€”an **autonomous agent** designed
 
 | Capability | Description |
 |------------|-------------|
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microphone.svg" width="16"/> **Voice Control** | Full voice-based operating system control (file manipulation, coding, system config) |
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/screwdriver-wrench.svg" width="16"/> **Self-Maintenance** | Autonomous writing, debugging, and maintaining of complex software repositories |
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" width="16"/> **Dynamic Load** | Seamless shifting between local NPU processing and cloud GPU clusters based on task complexity |
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/diagram-project.svg" width="16"/> **Workflow Orchestration** | Multi-step task planning with automatic dependency resolution |
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-halved.svg" width="16"/> **Error Recovery** | Recursive debugging with automatic patch generation and deployment |
+| **Voice Control** | Full voice-based operating system control (file manipulation, coding, system config) |
+| **Self-Maintenance** | Autonomous writing, debugging, and maintaining of complex software repositories |
+| **Dynamic Load** | Seamless shifting between local NPU processing and cloud GPU clusters based on task complexity |
+| **Workflow Orchestration** | Multi-step task planning with automatic dependency resolution |
+| **Error Recovery** | Recursive debugging with automatic patch generation and deployment |
 
 </details>
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/eye.svg" width="24" alt="Darshana"/> &nbsp; II. Darshana // Gen-6 Cloud Cognitive AI
+### II. Darshana // Gen-6 Cloud Cognitive AI
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=3B82F6&center=true&vCenter=true&width=400&lines=Architecture%3A+Cloud-Native+(Serverless);Role%3A+Cognitive+Bridge" alt="Darshana Architecture" />
@@ -453,7 +453,7 @@ Darshana serves as the **Cognitive Bridge**. While Nexus handles execution, Dars
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/android.svg" width="24" alt="Panda"/> &nbsp; III. Panda // Gen-5 Lightweight Intelligence
+### III. Panda // Gen-5 Lightweight Intelligence
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=F59E0B&center=true&vCenter=true&width=450&lines=Architecture%3A+On-Device+(Android+Native);Role%3A+Edge+Execution+Layer" alt="Panda Architecture" />
@@ -496,15 +496,15 @@ Panda is an ultra-optimized, low-level execution layer designed for **extreme sp
 
 | Generation | Architecture | Technical Breakthrough |
 |------------|--------------|------------------------|
-| <img src="https://img.shields.io/badge/Gen_1-1E293B?style=flat-square" alt="Gen-1"/> | Rule Engines | Static if-then logic maps and direct command execution |
-| <img src="https://img.shields.io/badge/Gen_2-334155?style=flat-square" alt="Gen-2"/> | Neural Basics | Introduction of pattern recognition and simple heuristic models |
-| <img src="https://img.shields.io/badge/Gen_3-475569?style=flat-square" alt="Gen-3"/> | Inference Layers | Early context awareness and session-based memory |
-| <img src="https://img.shields.io/badge/Gen_4-64748B?style=flat-square" alt="Gen-4"/> | Modular Pipelines | Decoupling of processing layers (Input â†’ Logic â†’ Output) |
-| <img src="https://img.shields.io/badge/Gen_5-F59E0B?style=flat-square" alt="Gen-5"/> | **Panda** | Lightweight, edge-optimized intelligence on mobile NPUs |
-| <img src="https://img.shields.io/badge/Gen_6-3B82F6?style=flat-square" alt="Gen-6"/> | **Darshana** | Cloud-augmented cognitive systems with emotional weighting |
-| <img src="https://img.shields.io/badge/Gen_7-8B5CF6?style=flat-square" alt="Gen-7"/> | Neuro-Empathic | Multi-engine synthesis merging DreamForge with Logic |
-| <img src="https://img.shields.io/badge/Gen_8-EC4899?style=flat-square" alt="Gen-8"/> | **ReForge** | Self-diagnosing systems capable of self-repair |
-| <img src="https://img.shields.io/badge/Gen_9-10B981?style=flat-square" alt="Gen-9"/> | **Nexus** | Fully autonomous hybrid intelligence with cross-device agency |
+| ![Gen-1](https://img.shields.io/badge/Gen_1-1E293B?style=flat-square) | Rule Engines | Static if-then logic maps and direct command execution |
+| ![Gen-2](https://img.shields.io/badge/Gen_2-334155?style=flat-square) | Neural Basics | Introduction of pattern recognition and simple heuristic models |
+| ![Gen-3](https://img.shields.io/badge/Gen_3-475569?style=flat-square) | Inference Layers | Early context awareness and session-based memory |
+| ![Gen-4](https://img.shields.io/badge/Gen_4-64748B?style=flat-square) | Modular Pipelines | Decoupling of processing layers (Input â†’ Logic â†’ Output) |
+| ![Gen-5](https://img.shields.io/badge/Gen_5-F59E0B?style=flat-square) | **Panda** | Lightweight, edge-optimized intelligence on mobile NPUs |
+| ![Gen-6](https://img.shields.io/badge/Gen_6-3B82F6?style=flat-square) | **Darshana** | Cloud-augmented cognitive systems with emotional weighting |
+| ![Gen-7](https://img.shields.io/badge/Gen_7-8B5CF6?style=flat-square) | Neuro-Empathic | Multi-engine synthesis merging DreamForge with Logic |
+| ![Gen-8](https://img.shields.io/badge/Gen_8-EC4899?style=flat-square) | **ReForge** | Self-diagnosing systems capable of self-repair |
+| ![Gen-9](https://img.shields.io/badge/Gen_9-10B981?style=flat-square) | **Nexus** | Fully autonomous hybrid intelligence with cross-device agency |
 
 <br/>
 
@@ -574,7 +574,7 @@ Panda is an ultra-optimized, low-level execution layer designed for **extreme sp
 <br/>
 
 <details open>
-<summary><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/network-wired.svg" width="20" alt="Nexus"/> <strong>1. Nexus Autonomous Framework</strong></summary>
+<summary><strong>1. Nexus Autonomous Framework</strong></summary>
 
 <br/>
 
@@ -594,7 +594,7 @@ A multi-generational AI system designed for true autonomy. Unlike standard assis
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" width="20" alt="CloudWorker"/> <strong>2. CloudWorker Microservice Engine</strong></summary>
+<summary><strong>2. CloudWorker Microservice Engine</strong></summary>
 
 <br/>
 
@@ -613,7 +613,7 @@ A high-availability, distributed control layer for microservices.
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" alt="Orchestrator"/> <strong>3. LLM Multimodel Orchestrator</strong></summary>
+<summary><strong>3. LLM Multimodel Orchestrator</strong></summary>
 
 <br/>
 
@@ -632,7 +632,7 @@ An advanced routing middleware that sits between user prompts and underlying mod
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/android.svg" width="20" alt="Panda"/> <strong>4. Panda Automation Toolkit</strong></summary>
+<summary><strong>4. Panda Automation Toolkit</strong></summary>
 
 <br/>
 
