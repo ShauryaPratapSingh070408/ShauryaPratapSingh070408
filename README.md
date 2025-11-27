@@ -1,8 +1,3 @@
-# Enhanced GitHub README Profile
-
-Here's your polished, professional, and visually stunning README:
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shaurya%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Architect%20•%20AI%20Engineer%20•%20R%26D%20Pioneer&descAlignY=55&descSize=18" width="100%" alt="Header"/>
 </div>
