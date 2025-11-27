@@ -290,8 +290,7 @@ Research &amp; Development Team
 
 <br/>
 
-Led inference stress-testing on pre-release models.  
-Delivered architectural insights shaping subsequent model evolutions.
+Led inference stress-testing on pre-release models, including Kimi-1.5 preview evaluation. Delivered architectural insights shaping subsequent model evolutions.
 
 </td>
 </tr>
@@ -314,8 +313,30 @@ Verified Expert — Google Ecosystem
 
 <br/>
 
-Code Wiki contributor with validated documentation.  
-Expertise in scalable cloud architectures and contemporary app frameworks.
+Code Wiki contributor with validated documentation. Expertise in scalable cloud architectures and contemporary app frameworks. Active member since November 13, 2023, with badges including Google Cloud Innovator (Aug 21, 2025), Firebase Studio Community (Aug 21, 2025), Code Wiki (Aug 21, 2025), NVIDIA Google Cloud & Community (Jul 23, 2025), Cloud Shell in Cloud Documentation (Feb 24, 2025), and Completed 1+ Codelab (Mar 7, 2024).
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6ce137d7d99a2d9f824c37c1f8c7d5f0b3e98c6f/icons/berlin.svg" width="64" alt="Berlin AI Consortium"/>
+<br/><br/>
+<strong>Berlin AI Consortium</strong>
+<br/>
+<sub>Event Contributor</sub>
+</td>
+<td>
+
+European AI Research Network
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=3000&pause=1000&color=000000&vCenter=true&width=400&lines=Annual+Meeting+Delegate+%E2%80%94+June+30%2C+Berlin;Proposal+Presenter+%E2%80%94+AI+Economic+Impact" alt="Berlin Details" />
+
+<br/>
+
+Invited to present on AI's economic implications at the annual consortium meeting, attended by 200+ global scholars and industry leaders.
 
 </td>
 </tr>
