@@ -523,22 +523,22 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=900&color=64748B&center=true&vCenter=true&width=600&lines=Dynamic+Restoration+Hierarchy:+Nexus+(Tier+1%2C+Advanced+Self-Healing)+%3E+Darshana+(Tier+2%2C+Distributed+Recovery)+%3E+Panda+(Tier+3%2C+Lightweight+Fallbacks)" alt="Restoration Hierarchy" />
 </div>
 
-<!-- FIXED: Ecosystem Flow Graph (Corrected Mermaid Syntax for Better Rendering) -->
+<!-- FIXED: Ecosystem Flow Graph (Mobile-Optimized: LR Direction, Short Labels) -->
 <br/>
 <div align="center">
   <strong>Ecosystem Interoperability Flow</strong>
   <br/>
   <sub>Task Escalation Across Tiers</sub>
   ```mermaid
-  flowchart TD
-      A[User Intent] --> B{Panda Edge Check}
-      B -->|Simple/Local| C[Execute Offline]
-      B -->|Complex| D[Escalate to Darshana]
-      D -->|Cognitive Parse| E[Cloud Reasoning]
-      E -->|Heavy Compute| F[Route to Nexus]
-      F --> G[Autonomous Orchestration]
-      G --> H[Dynamic Restoration Feedback]
-      H --> I[Unified Self-Healing]
+  flowchart LR
+      A[User Intent] --> B{Panda Check}
+      B -->|Simple| C[Offline Exec]
+      B -->|Complex| D[To Darshana]
+      D -->|Parse| E[Cloud Reason]
+      E -->|Heavy| F[To Nexus]
+      F --> G[Auto Orchestrate]
+      G --> H[Restoration FB]
+      H --> I[Self-Heal]
       C --> I
       E --> I
       style A fill:#F59E0B
@@ -579,7 +579,7 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 | <img src="https://img.shields.io/badge/Gen_8-EC4899?style=flat-square" alt="Gen 8"> | ReForge | Self-diagnosing systems with autonomous repair loops and predictive telemetry analytics | Near-Production |
 | <img src="https://img.shields.io/badge/Gen_9-10B981?style=flat-square" alt="Gen 9"> | Nexus | Fully autonomous hybrid intelligence ecosystem with Advanced Dynamic Restoration (Tier 1) and OS-level agency | Flagship (Live Deployments) |
 
-<!-- FIXED: Evolution Timeline Graph (Corrected Mermaid Gantt Syntax for Better Rendering) -->
+<!-- FIXED: Evolution Timeline Graph (Mobile-Optimized: Compact Labels) -->
 <br/>
 <div align="center">
   <strong>AI Evolution Timeline</strong>
@@ -589,15 +589,15 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
   gantt
       title AI Evolution Progress
       dateFormat YYYY-MM-DD
-      section Gen 1-4
-      Rule to Modular :2023-01-01, 12m
-      section Gen 5 (Panda)
-      Edge Autonomy :2023-11-01, 6m
-      section Gen 6 (Darshana)
-      Cloud Cognition :2024-05-01, 8m
-      section Gen 7-8
-      Empathic & ReForge :2024-10-01, 10m
-      section Gen 9 (Nexus)
+      section Early Gens
+      Rule-Modular :2023-01-01, 12m
+      section Panda Gen5
+      Edge Auto :2023-11-01, 6m
+      section Darshana Gen6
+      Cloud Cog :2024-05-01, 8m
+      section Gen7-8
+      Empath-ReForge :2024-10-01, 10m
+      section Nexus Gen9
       Full Hybrid :2025-03-01, 6m
   ```
 </div>
@@ -653,7 +653,7 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 
 **Additional Tools**: Git for version control, Prometheus/Grafana for monitoring, and Ray for distributed computing in ML workflows.
 
-<!-- FIXED: Skills Proficiency Graph (Corrected Mermaid Pie Syntax for Better Rendering) -->
+<!-- FIXED: Skills Proficiency Graph (Mobile-Optimized: No Changes Needed) -->
 </div>
 
 <br/>
@@ -794,7 +794,7 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 
 </details>
 
-<!-- FIXED: Projects Impact Table + Bar Chart (Adjusted for Solo Dev; Corrected Mermaid XY Syntax) -->
+<!-- FIXED: Projects Impact Table + Bar Chart (Mobile-Optimized: Short Labels) -->
 <br/>
 <div align="center">
   <strong>Project Impact Metrics</strong>
@@ -834,9 +834,9 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
   </table>
   ```mermaid
   xychart-beta
-      title Project LoC Distribution
-      x-axis [Nexus, Darshana, Panda, CloudWorker, Orchestrator]
-      y-axis "Lines of Code (K)" 0 --> 20
+      title Project LoC Dist.
+      x-axis [Nexus, Darshana, Panda, CW, Orchestrator]
+      y-axis "LoC (K)" 0 --> 20
       bar [15, 10, 8, 12, 6]
   ```
 </div>
@@ -904,7 +904,7 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 </tr>
 </table>
 
-<!-- FIXED: Roadmap Priority Table + Quadrant Chart (Kept as Useful; Corrected Mermaid Quadrant Syntax) -->
+<!-- FIXED: Roadmap Priority Table + Quadrant Chart (Mobile-Optimized: No Changes Needed) -->
 <br/>
 <div align="center">
   <strong>Roadmap Priorities</strong>
