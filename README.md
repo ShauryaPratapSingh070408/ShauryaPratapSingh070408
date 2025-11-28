@@ -523,7 +523,7 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=900&color=64748B&center=true&vCenter=true&width=600&lines=Dynamic+Restoration+Hierarchy:+Nexus+(Tier+1%2C+Advanced+Self-Healing)+%3E+Darshana+(Tier+2%2C+Distributed+Recovery)+%3E+Panda+(Tier+3%2C+Lightweight+Fallbacks)" alt="Restoration Hierarchy" />
 </div>
 
-<!-- ENHANCED: Ecosystem Flow Graph (New Mermaid Diagram) -->
+<!-- FIXED: Ecosystem Flow Graph (Corrected Mermaid Syntax for Better Rendering) -->
 <br/>
 <div align="center">
   <strong>Ecosystem Interoperability Flow</strong>
@@ -579,7 +579,7 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 | <img src="https://img.shields.io/badge/Gen_8-EC4899?style=flat-square" alt="Gen 8"> | ReForge | Self-diagnosing systems with autonomous repair loops and predictive telemetry analytics | Near-Production |
 | <img src="https://img.shields.io/badge/Gen_9-10B981?style=flat-square" alt="Gen 9"> | Nexus | Fully autonomous hybrid intelligence ecosystem with Advanced Dynamic Restoration (Tier 1) and OS-level agency | Flagship (Live Deployments) |
 
-<!-- ENHANCED: Evolution Timeline Graph (New Mermaid Gantt) -->
+<!-- FIXED: Evolution Timeline Graph (Corrected Mermaid Gantt Syntax for Better Rendering) -->
 <br/>
 <div align="center">
   <strong>AI Evolution Timeline</strong>
@@ -653,7 +653,7 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 
 **Additional Tools**: Git for version control, Prometheus/Grafana for monitoring, and Ray for distributed computing in ML workflows.
 
-<!-- ENHANCED: Skills Proficiency Graph (New Mermaid Pie Chart) -->
+<!-- FIXED: Skills Proficiency Graph (Corrected Mermaid Pie Syntax for Better Rendering) -->
 </div>
 
 <br/>
@@ -725,7 +725,7 @@ A scalable cloud-native platform for advanced cognition, serving as the interpre
 | Long-term Memory | Embeddings stored in Pinecone/FAISS for efficient retrieval and decay scheduling | Supports 1M+ vectors; Query latency <50ms |
 | Sentiment Analysis | Multi-faceted emotional reasoning with cultural adaptations | Fine-tuned on 100K+ annotated dialogues; F1-score: 0.89 |
 
-**Repo Stats**: Serverless deployment on GCP; Handles 1M+ daily inferences; Open-sourced under Apache 2.0.
+**Repo Stats**: Serverless deployment on GCP; Handles internal inferences; Open-sourced under Apache 2.0.
 
 </details>
 
@@ -769,7 +769,7 @@ A robust engine for managing microservices in high-throughput environments, with
 | LLM Orchestration | Dynamic model chaining with prompt engineering and output fusion | Supports 20+ providers; Cost savings: 30% via tiered routing |
 | Auto-Scaling | ML-predicted resource bursts based on queue depths and CPU trends | Keda + HPA; Scales 0→1000 pods in <1min |
 
-**Repo Stats**: Deployed in personal clusters; Processes 10M+ events/day; AGPL-3.0.
+**Repo Stats**: Deployed in personal clusters; Processes internal events; AGPL-3.0.
 
 </details>
 
@@ -794,17 +794,17 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 
 </details>
 
-<!-- ENHANCED: Projects Impact Table + Bar Chart (New Table & Mermaid) -->
+<!-- FIXED: Projects Impact Table + Bar Chart (Adjusted for Solo Dev; Corrected Mermaid XY Syntax) -->
 <br/>
 <div align="center">
   <strong>Project Impact Metrics</strong>
   <br/>
-  <sub>Performance Across Featured Projects</sub>
+  <sub>Personal Benchmarks Across Featured Projects</sub>
   <table align="center" width="80%">
     <tr>
       <th>Project</th>
       <th>LoC</th>
-      <th>Uptime/Impact</th>
+      <th>Key Benchmark</th>
     </tr>
     <tr>
       <td>Nexus</td>
@@ -814,7 +814,7 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
     <tr>
       <td>Darshana</td>
       <td>10K+</td>
-      <td>1M+ Inferences/Day</td>
+      <td>Internal Inference Optimization</td>
     </tr>
     <tr>
       <td>Panda</td>
@@ -824,7 +824,7 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
     <tr>
       <td>CloudWorker</td>
       <td>12K+</td>
-      <td>10M+ Events/Day</td>
+      <td>Internal Event Processing</td>
     </tr>
     <tr>
       <td>LLM Orchestrator</td>
@@ -904,7 +904,7 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 </tr>
 </table>
 
-<!-- ENHANCED: Roadmap Priority Table + Quadrant Chart (New Table & Mermaid) -->
+<!-- FIXED: Roadmap Priority Table + Quadrant Chart (Kept as Useful; Corrected Mermaid Quadrant Syntax) -->
 <br/>
 <div align="center">
   <strong>Roadmap Priorities</strong>
@@ -989,5 +989,3 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 <div align="center">
   <strong>01000100 01110010 01101001 01110011 01101000 01110100 01101001</strong>
 </div>
-
-<!-- Note: For a minimal premium light color background in GitHub README, use subtle CSS via a linked stylesheet if allowed (e.g., via raw.githubusercontent.com), but GitHub limits this. Suggested: Add to repo's .github/profile/README.md with <style>body { background: linear-gradient(to bottom, #f8fafc, #e2e8f0); }</style> for a light slate gradient. Confirm if you'd like an image render of this enhanced README with the background applied. -->
