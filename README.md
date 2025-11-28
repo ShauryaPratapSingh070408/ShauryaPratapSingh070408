@@ -703,7 +703,7 @@ A groundbreaking multi-generational AI orchestrator that achieves true autonomy 
 | Voice Command Integration | End-to-end voice pipeline with wake-word detection and multi-modal confirmation | Uses Whisper for transcription; Integrates with Android/iOS Speech APIs |
 | Code Generation | Autonomous full-stack development: From spec to deploy, including tests and CI/CD setup | Leverages GitHub Actions; Validates via unit/integration suites |
 
-**Repo Stats**: 15K+ LoC, 50+ contributors (open-source fork), deployed in 10+ production environments.
+**Repo Stats**: 15K+ LoC, deployed in personal production environments.
 
 </details>
 
@@ -748,7 +748,7 @@ A featherweight on-device AI executor optimized for mobility, emphasizing privac
 | Secure Delegation | End-to-end encrypted handoffs to cloud cores with zero-knowledge proofs | AES-256 + ECDH; Audit logs via local SQLite |
 | Offline-First | Full op stack without connectivity: Local models for NLP/CV tasks | TFLite Micro for <10MB footprint; 24-hour autonomy |
 
-**Repo Stats**: 5K+ downloads on Play Store; Battery impact: <2% drain/hour; MIT-licensed.
+**Repo Stats**: Battery impact: <2% drain/hour; MIT-licensed.
 
 </details>
 
@@ -769,7 +769,7 @@ A robust engine for managing microservices in high-throughput environments, with
 | LLM Orchestration | Dynamic model chaining with prompt engineering and output fusion | Supports 20+ providers; Cost savings: 30% via tiered routing |
 | Auto-Scaling | ML-predicted resource bursts based on queue depths and CPU trends | Keda + HPA; Scales 0→1000 pods in <1min |
 
-**Repo Stats**: Deployed in 5+ clusters; Processes 10M+ events/day; AGPL-3.0.
+**Repo Stats**: Deployed in personal clusters; Processes 10M+ events/day; AGPL-3.0.
 
 </details>
 
@@ -790,7 +790,7 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 | Analytics | Granular logging of latency, token usage, and error types for iterative refinement | Dashboards via Grafana; Exports to BigQuery |
 | Cost Optimization | Provider-agnostic routing with budget caps and fallback cascades | Real-time pricing API polling; 25% avg. savings |
 
-**Repo Stats**: 2K+ stars; Integrated in 20+ apps; BSD-3-Clause.
+**Repo Stats**: Integrated in personal apps; BSD-3-Clause.
 
 </details>
 
@@ -804,38 +804,32 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
     <tr>
       <th>Project</th>
       <th>LoC</th>
-      <th>Contributors</th>
       <th>Uptime/Impact</th>
     </tr>
     <tr>
       <td>Nexus</td>
       <td>15K+</td>
-      <td>50+</td>
       <td>99.8% Uptime</td>
     </tr>
     <tr>
       <td>Darshana</td>
       <td>10K+</td>
-      <td>30+</td>
       <td>1M+ Inferences/Day</td>
     </tr>
     <tr>
       <td>Panda</td>
       <td>8K+</td>
-      <td>20+</td>
-      <td>5K+ Downloads</td>
+      <td><2% Battery Drain/Hour</td>
     </tr>
     <tr>
       <td>CloudWorker</td>
       <td>12K+</td>
-      <td>15+</td>
       <td>10M+ Events/Day</td>
     </tr>
     <tr>
       <td>LLM Orchestrator</td>
       <td>6K+</td>
-      <td>10+</td>
-      <td>2K+ Stars</td>
+      <td>25% Cost Savings</td>
     </tr>
   </table>
   ```mermaid
