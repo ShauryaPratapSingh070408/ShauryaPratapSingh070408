@@ -562,6 +562,6 @@ A scalable cloud-native platform for advanced cognition, serving as the interpre
 
 <div align="center">
   <strong>01000100 01110010 01101001 01110011 01101000 01110100 01101001
-https://docs.google.com/presentation/d/1V5KSvKSLbUC7GYxAHO1DfGDR-XG4MPLb/edit?usp=drivesdk&ouid=102590785204306694342&rtpof=true&sd=true</strong>
+</strong>
 </div>
 
