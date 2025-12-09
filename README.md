@@ -3,11 +3,11 @@
 ### Creator of Nexus, Darshana & Panda
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=900&color=6366F1&center=true&vCenter=true&width=800&lines=Shaurya+Pratap+Singh;Systems+Architect+%7C+AI+Engineer+%7C+R%26D;Creator+of+Nexus%2C+Darshana+%26+Panda" alt="Header Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=900&color=6366F1&center=true&vCenter=true&width=800&repeat=false&lines=Shaurya+Pratap+Singh;Systems+Architect+%7C+AI+Engineer+%7C+R%26D;Creator+of+Nexus%2C+Darshana+%26+Panda" alt="Header Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2100&pause=800&color=94A3B8&center=true&vCenter=true&width=650&lines=Autonomous+Systems+Architect;AI+Research+%26+Development;Cloud+Infrastructure+Engineer;Pioneering+Hybrid+Intelligence" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2100&pause=800&color=94A3B8&center=true&vCenter=true&width=650&repeat=false&lines=Autonomous+Systems+Architect;AI+Research+%26+Development;Cloud+Infrastructure+Engineer;Pioneering+Hybrid+Intelligence" alt="Subtitle Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=480&lines=%F0%9F%8E%AF+Executive+Profile" alt="Section: Executive Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=480&repeat=false&lines=%F0%9F%8E%AF+Executive+Profile" alt="Section: Executive Profile" />
 </div>
 
 <br/>
@@ -58,7 +58,7 @@ Whether it's architecting frameworks for recursive self-healing or pioneering mu
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=A5B4FC&center=true&vCenter=true&width=600&lines=Engineering+Philosophy+-+Three+Critical+Domains" alt="Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=A5B4FC&center=true&vCenter=true&width=600&repeat=false&lines=Engineering+Philosophy+-+Three+Critical+Domains" alt="Philosophy" />
 </div>
 
 <br/>
@@ -98,7 +98,7 @@ Whether it's architecting frameworks for recursive self-healing or pioneering mu
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=900&color=64748B&center=true&vCenter=true&width=520&lines=Currently+architecting+the+Gen-9+Intelligence+Suite+with+enhanced+multimodal+capabilities+and+cross-platform+integration" alt="Current Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=900&color=64748B&center=true&vCenter=true&width=520&repeat=false&lines=Currently+architecting+the+Gen-9+Intelligence+Suite+with+enhanced+multimodal+capabilities+and+cross-platform+integration" alt="Current Work" />
 </div>
 
 <br/>
@@ -110,14 +110,12 @@ Whether it's architecting frameworks for recursive self-healing or pioneering mu
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%8F%86+Global+Recognition+%26+Contributions" alt="Section: Recognition" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%8F%86+Global+Recognition+%26+Contributions" alt="Section: Recognition" />
 </div>
 
 <br/>
 
 <table align="center" width="90%">
-
-<!-- ALIBABA CLOUD -->
 
 <tr>
 <td align="center" width="150" valign="top">
@@ -137,7 +135,7 @@ Whether it's architecting frameworks for recursive self-healing or pioneering mu
 <br/>
 
 Beijing Haidian, China - Global R&D Conference
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=FF6A00&vCenter=true&width=500&lines=Conference+Delegate+-+Magic+Developer+Program;200%2B+Top-Tier+Scholars+%26+Research+Teams;ModelScope+AI+Architecture+Contributor" alt="Alibaba Details" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=FF6A00&vCenter=true&width=500&repeat=false&lines=Conference+Delegate+-+Magic+Developer+Program;200%2B+Top-Tier+Scholars+%26+Research+Teams;ModelScope+AI+Architecture+Contributor" alt="Alibaba Details" />
 
 **Conference Delegate**
 
@@ -147,9 +145,8 @@ Invited as a distinguished developer contributor to the Magic Developer Conferen
 
 **Chinese (Original):**
 
-```
+
 [阿里云] 尊敬的魔搭开发者，魔搭开发者大会将于6月30日在北京·海淀香格里拉饭店举办！AI领域重量级嘉宾的精彩演讲，200+顶级学者与模型研发团队的思想碰撞、模型工具与生态最新进展...点击了解详情
-```
 
 **English Translation:**
 
@@ -175,8 +172,6 @@ Invited as a distinguished developer contributor to the Magic Developer Conferen
 </td>
 </tr>
 
-<!-- MOONSHOT AI -->
-
 <tr>
 <td align="center" width="150" valign="top">
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/moonshot.svg" width="64" alt="Moonshot AI"/>
@@ -195,7 +190,7 @@ Invited as a distinguished developer contributor to the Magic Developer Conferen
 <br/>
 
 Kimi k1.5-Preview Testing & Development
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=7C3AED&vCenter=true&width=550&lines=Pre-Release+Model+Testing+-+Kimi+k1.5-preview;Inference+%26+Hallucination+Analysis;Architectural+Feedback+-+Optimization+Impact" alt="Moonshot Details" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=7C3AED&vCenter=true&width=550&repeat=false&lines=Pre-Release+Model+Testing+-+Kimi+k1.5-preview;Inference+%26+Hallucination+Analysis;Architectural+Feedback+-+Optimization+Impact" alt="Moonshot Details" />
 
 **Official Communication**
 
@@ -238,8 +233,6 @@ Subject: Kimi k1.5-preview Model Testing & Evaluation
 </td>
 </tr>
 
-<!-- GOOGLE DEVELOPER PROGRAM -->
-
 <tr>
 <td align="center" width="150" valign="top">
 <img src="https://www.svgrepo.com/show/475656/google-color.svg" width="64" alt="Google"/>
@@ -258,7 +251,7 @@ Subject: Kimi k1.5-preview Model Testing & Evaluation
 <br/>
 
 Google Developer Profile - Verified Expert
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=4285F4&vCenter=true&width=550&lines=Cloud+Innovator+-+Cloud+Run%2C+Compute+Engine%2C+Vertex+AI;NVIDIA+x+Google+Cloud+Medal+-+GPU+Optimization;Firebase+Studio+-+Real-time+Data+Structures;Code+Wiki+Contributor+-+Verified+Documentation" alt="Google Details" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=4285F4&vCenter=true&width=550&repeat=false&lines=Cloud+Innovator+-+Cloud+Run%2C+Compute+Engine%2C+Vertex+AI;NVIDIA+x+Google+Cloud+Medal+-+GPU+Optimization;Firebase+Studio+-+Real-time+Data+Structures;Code+Wiki+Contributor+-+Verified+Documentation" alt="Google Details" />
 
 **Earned Badges & Certifications**
 
@@ -346,14 +339,13 @@ Google Developer Profile - Verified Expert
 </td>
 </tr>
 
-<!-- ENHANCED: Contribution Impact Graph (New Table + Mermaid Chart) -->
 <tr>
 <td align="center" width="150" valign="top" colspan="2">
   <strong>Global Contributions Overview</strong>
   <br/>
   <sub>Impact Metrics Across Collaborations (2023-2025)</sub>
   <br/><br/>
-  <table align="center" width="80%">
+  <table align="center" width="90%">
     <tr>
       <th>Collaboration</th>
       <th>Contributions</th>
@@ -379,15 +371,6 @@ Google Developer Profile - Verified Expert
       <td>2-3x Throughput Boost</td>
     </tr>
   </table>
-  <br/>
-  <div align="center">
-    ```mermaid
-    pie title Contribution Impact Distribution
-        "Alibaba Cloud" : 35
-        "Moonshot AI" : 40
-        "Google Developers" : 25
-    ```
-  </div>
 </td>
 </tr>
 
@@ -402,20 +385,20 @@ Google Developer Profile - Verified Expert
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%A7%A0+The+Intelligence+Ecosystem+(Gen+5+-+Gen+9)" alt="Section: Intelligence Ecosystem" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%A7%A0+The+Intelligence+Ecosystem+(Gen+5+-+Gen+9)" alt="Section: Intelligence Ecosystem" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Three-tier+intelligence+hierarchy+designed+for+seamless+interoperability;Specialized+for+hardware-specific+constraints+and+use+cases;Unified+Dynamic+Restoration+with+progressive+capability+escalation" alt="Ecosystem Description" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=94A3B8&center=true&vCenter=true&width=600&repeat=false&lines=Three-tier+intelligence+hierarchy+designed+for+seamless+interoperability;Specialized+for+hardware-specific+constraints+and+use+cases;Unified+Dynamic+Restoration+with+progressive+capability+escalation" alt="Ecosystem Description" />
 </div>
 
 <br/>
 
 ### I. Nexus // Gen-9 Autonomous Intelligence
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=10B981&center=true&vCenter=true&width=500&lines=Architecture:+Hybrid+(On-Device+%2B+Cloud+Distributed);Status:+Flagship+System;ReForge+Engine:+Tier+1+(Advanced+Self-Healing)" alt="Nexus Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=10B981&center=true&vCenter=true&width=500&repeat=false&lines=Architecture:+Hybrid+(On-Device+%2B+Cloud+Distributed);Status:+Flagship+System;ReForge+Engine:+Tier+1+(Advanced+Self-Healing)" alt="Nexus Architecture" />
 </div>
 
 <br/>
@@ -457,7 +440,7 @@ Nexus represents the pinnacle of autonomous AI engineering—a sophisticated age
 
 ### II. Darshana // Gen-6 Cloud Cognitive AI
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=Architecture:+Cloud-Native+(Serverless+%26+Multi-Region);Role:+Cognitive+Bridge+for+Intent+Parsing;ReForge+Engine:+Tier+2+(Distributed+Recovery)" alt="Darshana Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=3B82F6&center=true&vCenter=true&width=500&repeat=false&lines=Architecture:+Cloud-Native+(Serverless+%26+Multi-Region);Role:+Cognitive+Bridge+for+Intent+Parsing;ReForge+Engine:+Tier+2+(Distributed+Recovery)" alt="Darshana Architecture" />
 </div>
 
 <br/>
@@ -491,7 +474,7 @@ Darshana acts as the intellectual nexus of the ecosystem—the Cognitive Bridge 
 
 ### III. Panda // Gen-5 Lightweight Intelligence
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=F59E0B&center=true&vCenter=true&width=500&lines=Architecture:+On-Device+(Android+Native+%26+iOS+Compatible);Role:+Edge+Execution+Layer+for+Offline+Ops;ReForge+Engine:+Tier+3+(Lightweight+Recovery)" alt="Panda Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=F59E0B&center=true&vCenter=true&width=500&repeat=false&lines=Architecture:+On-Device+(Android+Native+%26+iOS+Compatible);Role:+Edge+Execution+Layer+for+Offline+Ops;ReForge+Engine:+Tier+3+(Lightweight+Recovery)" alt="Panda Architecture" />
 </div>
 
 <br/>
@@ -520,31 +503,7 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=900&color=64748B&center=true&vCenter=true&width=600&lines=Dynamic+Restoration+Hierarchy:+Nexus+(Tier+1%2C+Advanced+Self-Healing)+%3E+Darshana+(Tier+2%2C+Distributed+Recovery)+%3E+Panda+(Tier+3%2C+Lightweight+Fallbacks)" alt="Restoration Hierarchy" />
-</div>
-
-<!-- FIXED: Ecosystem Flow Graph (Mobile-Optimized: LR Direction, Short Labels) -->
-<br/>
-<div align="center">
-  <strong>Ecosystem Interoperability Flow</strong>
-  <br/>
-  <sub>Task Escalation Across Tiers</sub>
-  ```mermaid
-  flowchart LR
-      A[User Intent] --> B{Panda Check}
-      B -->|Simple| C[Offline Exec]
-      B -->|Complex| D[To Darshana]
-      D -->|Parse| E[Cloud Reason]
-      E -->|Heavy| F[To Nexus]
-      F --> G[Auto Orchestrate]
-      G --> H[Restoration FB]
-      H --> I[Self-Heal]
-      C --> I
-      E --> I
-      style A fill:#F59E0B
-      style F fill:#10B981
-      style D fill:#3B82F6
-  ```
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2400&pause=900&color=64748B&center=true&vCenter=true&width=600&repeat=false&lines=Dynamic+Restoration+Hierarchy:+Nexus+(Tier+1%2C+Advanced+Self-Healing)+%3E+Darshana+(Tier+2%2C+Distributed+Recovery)+%3E+Panda+(Tier+3%2C+Lightweight+Fallbacks)" alt="Restoration Hierarchy" />
 </div>
 
 <br/>
@@ -556,13 +515,13 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%94%AC+AI+Evolution+Framework" alt="Section: Evolution Framework" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%94%AC+AI+Evolution+Framework" alt="Section: Evolution Framework" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&lines=Generation-based+evolutionary+path+tracing+9+iterations;From+deterministic+rule-based+systems+to+fully+adaptive%2C+self-evolving+autonomous+agents" alt="Evolution Description" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&repeat=false&lines=Generation-based+evolutionary+path+tracing+9+iterations;From+deterministic+rule-based+systems+to+fully+adaptive%2C+self-evolving+autonomous+agents" alt="Evolution Description" />
 </div>
 
 <br/>
@@ -579,29 +538,6 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 | <img src="https://img.shields.io/badge/Gen_8-EC4899?style=flat-square" alt="Gen 8"> | ReForge | Self-diagnosing systems with autonomous repair loops and predictive telemetry analytics | Near-Production |
 | <img src="https://img.shields.io/badge/Gen_9-10B981?style=flat-square" alt="Gen 9"> | Nexus | Fully autonomous hybrid intelligence ecosystem with Advanced Dynamic Restoration (Tier 1) and OS-level agency | Flagship (Live Deployments) |
 
-<!-- FIXED: Evolution Timeline Graph (Mobile-Optimized: Compact Labels) -->
-<br/>
-<div align="center">
-  <strong>AI Evolution Timeline</strong>
-  <br/>
-  <sub>Generational Milestones (2023-2025)</sub>
-  ```mermaid
-  gantt
-      title AI Evolution Progress
-      dateFormat YYYY-MM-DD
-      section Early Gens
-      Rule-Modular :2023-01-01, 12m
-      section Panda Gen5
-      Edge Auto :2023-11-01, 6m
-      section Darshana Gen6
-      Cloud Cog :2024-05-01, 8m
-      section Gen7-8
-      Empath-ReForge :2024-10-01, 10m
-      section Nexus Gen9
-      Full Hybrid :2025-03-01, 6m
-  ```
-</div>
-
 <br/>
 
 <div align="center">
@@ -611,13 +547,13 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%A7%B0+Technical+Arsenal" alt="Section: Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%A7%B0+Technical+Arsenal" alt="Section: Tech Stack" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&lines=Curated+for+scalability%2C+type+safety%2C+concurrency%2C+and+cross-platform+portability+in+high-stakes+AI+deployments" alt="Tech Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&repeat=false&lines=Curated+for+scalability%2C+type+safety%2C+concurrency%2C+and+cross-platform+portability+in+high-stakes+AI+deployments" alt="Tech Philosophy" />
 </div>
 
 <br/>
@@ -653,21 +589,6 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 
 **Additional Tools**: Git for version control, Prometheus/Grafana for monitoring, and Ray for distributed computing in ML workflows.
 
-<!-- FIXED: Skills Proficiency Graph (Mobile-Optimized: No Changes Needed) -->
-</div>
-
-<br/>
-<div align="center">
-  <strong>Tech Proficiency Distribution</strong>
-  <br/>
-  <sub>Expertise Across Key Domains (% Allocation)</sub>
-  ```mermaid
-  pie title Tech Stack Proficiency
-      "Languages" : 25
-      "Frameworks" : 30
-      "Infrastructure" : 35
-      "Tools" : 10
-  ```
 </div>
 
 <br/>
@@ -679,7 +600,7 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%92%BC+Featured+Engineering+Projects" alt="Section: Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%92%BC+Featured+Engineering+Projects" alt="Section: Projects" />
 </div>
 
 <br/>
@@ -690,7 +611,7 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=10B981&center=true&vCenter=true&width=500&lines=Python+%7C+Dart+%7C+Google+Cloud+Functions+%7C+Local+NPU+Inference+%7C+CUDA+Acceleration" alt="Nexus Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=10B981&center=true&vCenter=true&width=500&repeat=false&lines=Python+%7C+Dart+%7C+Google+Cloud+Functions+%7C+Local+NPU+Inference+%7C+CUDA+Acceleration" alt="Nexus Tech" />
 </div>
 
 A groundbreaking multi-generational AI orchestrator that achieves true autonomy through predictive planning and self-evolution. Nexus transcends prompt-response paradigms by proactively modeling user workflows, allocating resources dynamically, and iterating on its own performance metrics.
@@ -713,7 +634,7 @@ A groundbreaking multi-generational AI orchestrator that achieves true autonomy 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=3B82F6&center=true&vCenter=true&width=500&lines=Python+%7C+TypeScript+%7C+Cloud+Functions+%7C+Serverless+Orchestration+%7C+Vector+Databases" alt="Darshana Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=3B82F6&center=true&vCenter=true&width=500&repeat=false&lines=Python+%7C+TypeScript+%7C+Cloud+Functions+%7C+Serverless+Orchestration+%7C+Vector+Databases" alt="Darshana Tech" />
 </div>
 
 A scalable cloud-native platform for advanced cognition, serving as the interpretive layer that bridges raw intent with executable actions. Darshana excels in handling ambiguous queries, maintaining long-term context, and facilitating multi-agent collaborations in distributed systems.
@@ -735,7 +656,7 @@ A scalable cloud-native platform for advanced cognition, serving as the interpre
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=400&lines=Android+Native+%7C+Kotlin+%7C+Java+%7C+TensorFlow+Lite+%7C+Offline+ML" alt="Panda Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=400&repeat=false&lines=Android+Native+%7C+Kotlin+%7C+Java+%7C+TensorFlow+Lite+%7C+Offline+ML" alt="Panda Tech" />
 </div>
 
 A featherweight on-device AI executor optimized for mobility, emphasizing privacy, low power draw, and instant responsiveness. Panda powers offline-first experiences, from gesture-based controls to ambient computing, while serving as a secure gateway to higher tiers.
@@ -758,7 +679,7 @@ A featherweight on-device AI executor optimized for mobility, emphasizing privac
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=350&lines=NodeJS+%7C+Go+%7C+Cloud+Run+%7C+gRPC+%7C+Redis+Caching" alt="CloudWorker Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=350&repeat=false&lines=NodeJS+%7C+Go+%7C+Cloud+Run+%7C+gRPC+%7C+Redis+Caching" alt="CloudWorker Tech" />
 </div>
 
 A robust engine for managing microservices in high-throughput environments, with built-in LLM chaining and adaptive scaling. CloudWorker ensures fault-tolerant execution for AI pipelines, from inference routing to data ingestion.
@@ -779,7 +700,7 @@ A robust engine for managing microservices in high-throughput environments, with
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=EC4899&center=true&vCenter=true&width=400&lines=Next.js+%7C+TypeScript+%7C+Python+%7C+LangChain+%7C+Prometheus+Metrics" alt="Orchestrator Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=EC4899&center=true&vCenter=true&width=400&repeat=false&lines=Next.js+%7C+TypeScript+%7C+Python+%7C+LangChain+%7C+Prometheus+Metrics" alt="Orchestrator Tech" />
 </div>
 
 An intelligent middleware that democratizes access to diverse LLMs by evaluating query semantics and routing to optimal providers. It minimizes costs while maximizing accuracy through strategy selection and performance logging.
@@ -794,13 +715,12 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 
 </details>
 
-<!-- FIXED: Projects Impact Table + Bar Chart (Mobile-Optimized: Short Labels) -->
 <br/>
 <div align="center">
   <strong>Project Impact Metrics</strong>
   <br/>
   <sub>Personal Benchmarks Across Featured Projects</sub>
-  <table align="center" width="80%">
+  <table align="center" width="90%">
     <tr>
       <th>Project</th>
       <th>LoC</th>
@@ -832,13 +752,6 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
       <td>25% Cost Savings</td>
     </tr>
   </table>
-  ```mermaid
-  xychart-beta
-      title Project LoC Dist.
-      x-axis [Nexus, Darshana, Panda, CW, Orchestrator]
-      y-axis "LoC (K)" 0 --> 20
-      bar [15, 10, 8, 12, 6]
-  ```
 </div>
 
 <br/>
@@ -850,13 +763,13 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&lines=%F0%9F%9A%80+Future+Roadmap" alt="Section: Roadmap" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%9A%80+Future+Roadmap" alt="Section: Roadmap" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&lines=Currently+upgrading+Nexus-Darshana-Panda+ecosystem+to+Gen+9.5+with+quantum-resistant+crypto+and+multi-agent+federation" alt="Roadmap Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&repeat=false&lines=Currently+upgrading+Nexus-Darshana-Panda+ecosystem+to+Gen+9.5+with+quantum-resistant+crypto+and+multi-agent+federation" alt="Roadmap Status" />
 </div>
 
 <br/>
@@ -904,13 +817,12 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 </tr>
 </table>
 
-<!-- FIXED: Roadmap Priority Table + Quadrant Chart (Mobile-Optimized: No Changes Needed) -->
 <br/>
 <div align="center">
   <strong>Roadmap Priorities</strong>
   <br/>
   <sub>Q1 2026 Milestones</sub>
-  <table align="center" width="70%">
+  <table align="center" width="90%">
     <tr>
       <th>Milestone</th>
       <th>Priority</th>
@@ -942,18 +854,6 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
       <td>Blockchain Audits</td>
     </tr>
   </table>
-  ```mermaid
-  quadrantChart
-      title Roadmap Quadrant
-      x-axis Impact --> Innovation
-      y-axis Feasibility --> Ambition
-      quadrant-1 High Impact, High Feasibility
-      quadrant-2 High Impact, Low Feasibility
-      "Remote Delegation" : [5, 4]
-      "Next-Gen Agency" : [4, 3]
-      "Full Autonomy" : [3, 2]
-      "Unified Restoration" : [4, 3]
-  ```
 </div>
 
 <br/>
@@ -965,7 +865,7 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=900&color=10B981&center=true&vCenter=true&width=600&lines=Open+for+collaboration+on+AI+Architecture%2C+Cloud+Systems%2C+Autonomous+Agents%2C+and+Ethical+AI+Research" alt="Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=900&color=10B981&center=true&vCenter=true&width=600&repeat=false&lines=Open+for+collaboration+on+AI+Architecture%2C+Cloud+Systems%2C+Autonomous+Agents%2C+and+Ethical+AI+Research" alt="Collaboration" />
 </div>
 
 <br/>
@@ -990,3 +890,4 @@ An intelligent middleware that democratizes access to diverse LLMs by evaluating
   <strong>01000100 01110010 01101001 01110011 01101000 01110100 01101001
 https://docs.google.com/presentation/d/1V5KSvKSLbUC7GYxAHO1DfGDR-XG4MPLb/edit?usp=drivesdk&ouid=102590785204306694342&rtpof=true&sd=true</strong>
 </div>
+
