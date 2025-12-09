@@ -34,6 +34,23 @@
 
 <br/>
 
+## 🗺️ Navigation
+
+<div align="center">
+
+| 🏠 [**Home**](README.md) | 👤 [**About**](docs/ABOUT.md) | 🏆 [**Recognition**](docs/RECOGNITION.md) | 🧠 [**Projects**](docs/PROJECTS.md) | 🛠️ [**Tech Stack**](docs/TECH.md) | 🚀 [**Roadmap**](docs/ROADMAP.md) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=480&repeat=false&lines=%F0%9F%8E%AF+Executive+Profile" alt="Section: Executive Profile" />
 </div>
@@ -109,350 +126,19 @@ Whether it's architecting frameworks for recursive self-healing or pioneering mu
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%8F%86+Global+Recognition+%26+Contributions" alt="Section: Recognition" />
-</div>
-
-<br/>
-
-<table align="center" width="90%">
-
-<tr>
-<td align="center" width="150" valign="top">
-  <img src="https://www.svgrepo.com/download/473520/alibabacloud.svg" width="64" alt="Alibaba Cloud"/>
-  <br/><br/>
-  <strong>Alibaba Cloud</strong>
-  <br/>
-  <sub>Magic Developer (MVP)</sub>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Beijing-HQ-FF6A00?style=flat-square" alt="Location"/>
-</td>
-<td valign="top">
-
-<details>
-<summary><strong>Click to view detailed collaboration</strong></summary>
-
-<br/>
-
-Beijing Haidian, China - Global R&D Conference
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=FF6A00&vCenter=true&width=500&repeat=false&lines=Conference+Delegate+-+Magic+Developer+Program;200%2B+Top-Tier+Scholars+%26+Research+Teams;ModelScope+AI+Architecture+Contributor" alt="Alibaba Details" />
-
-**Conference Delegate**
-
-Invited as a distinguished developer contributor to the Magic Developer Conference held at the Shangri-La Hotel, Haidian District, Beijing. This event brought together over 200 elite AI researchers, scholars, and industry leaders to discuss cutting-edge advancements in large language models (LLMs), open-source ecosystems, and collaborative AI development.
-
-**Official Invitation**
-
-**Chinese (Original):**
-
-
-[阿里云] 尊敬的魔搭开发者，魔搭开发者大会将于6月30日在北京·海淀香格里拉饭店举办！AI领域重量级嘉宾的精彩演讲，200+顶级学者与模型研发团队的思想碰撞、模型工具与生态最新进展...点击了解详情
-
-**English Translation:**
-
-[Alibaba Cloud] Dear Magic Developer, the Magic Developer Conference will be held on June 30th at the Beijing Haidian Shangri-La Hotel! AI leaders delivering forward-thinking keynotes, 200+ top scholars and model development teams engaging in ideological exchanges, latest progress in model tools and ecosystem development... Click to learn more.
-
-**Technical Contributions**
-
-- **ModelScope Architecture**: Recognized as "Magic Developer" for contributions to advanced LLM optimization architectures, including efficient quantization techniques and distributed training pipelines that reduce inference latency by up to 40%.
-- **Model Fine-Tuning Strategies**: Developed and shared strategies for hyperparameter tuning and data augmentation, leading to measurable improvements in training pipeline efficiency for multilingual models.
-- **Qwen2.5 Testing**: Provided early access testing, comprehensive performance benchmarking (e.g., on benchmarks like MMLU and HumanEval), and feedback on edge cases, contributing to the model's robustness in production environments.
-- **Research Collaboration**: Engaged directly with Alibaba Cloud Intelligence teams on topics like federated learning and secure multi-party computation, fostering cross-border innovation in AI infrastructure.
-
-</details>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="150" valign="top">
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/moonshot.svg" width="64" alt="Moonshot AI"/>
-<br/><br/>
-<strong>Moonshot AI</strong>
-<br/>
-<sub>Research & Development</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Role-R%26D-7C3AED?style=flat-square" alt="Role"/>
-</td>
-<td valign="top">
-
-<details>
-<summary><strong>Click to view research contributions</strong></summary>
-
-<br/>
-
-Kimi k1.5-Preview Testing & Development
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=7C3AED&vCenter=true&width=550&repeat=false&lines=Pre-Release+Model+Testing+-+Kimi+k1.5-preview;Inference+%26+Hallucination+Analysis;Architectural+Feedback+-+Optimization+Impact" alt="Moonshot Details" />
-
-**Official Communication**
-
-From: MoonshotAI noreply@moonshot.cn  
-Subject: Kimi k1.5-preview Model Testing & Evaluation
-
-> Dear Developers and Researchers,  
-> 
-> Hello!  
-> 
-> Thank you very much for participating in the testing and evaluation activities of our kimi-k1.5-preview model. We have really appreciated working with you to explore the potential of this new model. Your insights have been invaluable in refining our approach to multimodal reasoning and long-context understanding.
-
-**Core Research Contributions**
-
-| Area | Details |
-|------|---------|
-| **Model Evaluation & Stress Testing** | Conducted rigorous inference testing on pre-release Kimi k1.5 multimodal model across diverse datasets; Systematic hallucination detection using custom benchmarks and edge case simulations; Performance benchmarking on specialized tasks including advanced mathematics (MATH-500), coding challenges (LiveCodeBench), and vision-language integration. |
-| **Technical Feedback Loop** | Delivered architectural insights on transformer efficiency and attention mechanisms, directly influencing next-generation model iterations; Contributed novel techniques for reinforcement learning from human feedback (RLHF) in multilingual settings; Led evaluations for long-context reasoning with token lengths up to 200K, focusing on coherence and factual accuracy. |
-| **System Integration** | Tested seamless integration with production-level applications, including API wrappers for real-time deployment; Evaluated and optimized latency for edge-cloud hybrid scenarios; Developed workflows for multimodal data processing, enhancing support for interleaved text-image-code inputs. |
-
-</details>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="150" valign="top">
-<img src="https://www.svgrepo.com/show/475656/google-color.svg" width="64" alt="Google"/>
-<br/><br/>
-<strong>Google Developers</strong>
-<br/>
-<sub>Certified Professional</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-Verified-4285F4?style=flat-square" alt="Status"/>
-</td>
-<td valign="top">
-
-<details>
-<summary><strong>Click to view achievements & badges</strong></summary>
-
-<br/>
-
-Google Developer Profile - Verified Expert
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=4285F4&vCenter=true&width=550&repeat=false&lines=Cloud+Innovator+-+Cloud+Run%2C+Compute+Engine%2C+Vertex+AI;NVIDIA+x+Google+Cloud+Medal+-+GPU+Optimization;Firebase+Studio+-+Real-time+Data+Structures;Code+Wiki+Contributor+-+Verified+Documentation" alt="Google Details" />
-
-**Earned Badges & Certifications**
+## 🔥 Quick Highlights
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Code-Wiki-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Code Wiki"/>
-<br/>
-<sub><strong>Code Wiki</strong></sub>
-<br/>
-<sub>Aug 21, 2025</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Firebase-Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-<br/>
-<sub><strong>Firebase Studio Developer</strong></sub>
-<br/>
-<sub>Aug 21, 2025</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-<br/>
-<sub><strong>GC Innovator</strong></sub>
-<br/>
-<sub>Aug 21, 2025</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/NVIDIA-Community-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/>
-<br/>
-<sub><strong>GC & NVIDIA Community</strong></sub>
-<br/>
-<sub>Jul 23, 2025</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Cloud-Shell-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Shell"/>
-<br/>
-<sub><strong>Cloud Shell in Cloud</strong></sub>
-<br/>
-<sub>Feb 24, 2025</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Codelab-1%2B-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Codelab"/>
-<br/>
-<sub><strong>Completed 1+ Codelab</strong></sub>
-<br/>
-<sub>Mar 7, 2024</sub>
-</td>
-</tr>
-</table>
+### Global Partnerships
+🌐 **Alibaba Cloud** • Magic Developer (MVP) • Beijing R&D Conference  
+🚀 **Moonshot AI** • Kimi k1.5-preview Research & Testing  
+☁️ **Google Developers** • Certified Professional • Cloud Innovator
 
-</div>
-
-</details>
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%A7%A0+The+Intelligence+Ecosystem+(Gen+5+-+Gen+10)" alt="Section: Intelligence Ecosystem" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=94A3B8&center=true&vCenter=true&width=600&repeat=false&lines=Evolution+from+Autonomous+Agents+to+Unified+AI+Operating+Layers;Snowflake+OS+unifying+reasoning%2C+sensing%2C+and+orchestration" alt="Ecosystem Description" />
-</div>
-
-<br/>
-
-### I. Snowflake AI v5.0 // The AI Operating Layer (Gen-10)
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=0EA5E9&center=true&vCenter=true&width=500&repeat=false&lines=Status:+Flagship+OS;Architecture:+Triad+(Snowball+%2B+SnowPuff+%2B+Snowflake);Capabilties:+150%2B+Automations+%7C+Custom+LLM+Inference" alt="Snowflake Architecture" />
-</div>
-
-<br/>
-
-Snowflake AI v5.0 is the definitive **AI Operating Layer**, a modular ecosystem designed to function as a complete nervous system for digital environments. It unifies custom-built reasoning (Snowball), real-time sensory input (SnowPuff), and heavy-duty orchestration (Snowflake) into a single, cohesive intelligence.
-
-| Component | Role | Description |
-|-----------|------|-------------|
-| **Snowball** | 🧠 **Reasoning Engine** | The exclusive intelligence core. Variants include **Snowball-5M** (5M params, built from scratch) for ultra-fast offline tasks, **Snowball-24M** (24M params, scratch-built) for mid-tier logic, and **Snowball-8B** (Fine-tuned Llama 3.1) for deep reasoning and coding. |
-| **SnowPuff** | ⚡ **Micro Automation** | A **~33K parameter** micro-AI that handles real-time data fetching (weather, stocks), system triggers, and feeds sensory context to the main brain with <10ms latency. |
-| **Snowflake** | ❄️ **Orchestrator** | The "Brain-Director" that executes **heavy automations**, manages WhatsApp messaging, controls 150+ system app functions, and coordinates multi-step agentic workflows. |
-
-<details>
-<summary><strong>View Snowflake v5.0 Automation Capabilities</strong></summary>
-
-<br/>
-
-**Core System Automations**
-* **App Control**: Launch, Switch, Force Stop, Install/Uninstall.
-* **System Settings**: Toggle WiFi/BT, Airplane Mode, Flashlight, Volume, Brightness.
-* **Communication**: WhatsApp automation, SMS, Email, Call management.
-
-**Advanced Intelligence**
-* **FSI (Full Screen Intelligence)**: OCR text extraction, on-screen translation, article summarization.
-* **Agentic Workflows**: Cross-app copy/paste, auto-form filling, conditional logic (e.g., "If Battery < 20%").
-* **Accessibility**: Live scene narration, voice navigation, obstacle alerts.
-
-**Deployment Modes**
-* **Local Mode**: Entirely offline execution via Snowball-5M/24M.
-* **Cloud Mode**: Hosted inference for heavy lifting.
-* **Hybrid Mode**: Dynamic switching based on task complexity.
-
-</details>
-
-<br/>
-
-### II. Nexus // Gen-9 Autonomous Intelligence
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=10B981&center=true&vCenter=true&width=500&repeat=false&lines=Architecture:+Hybrid+(On-Device+%2B+Cloud+Distributed);Role:+Self-Healing+Agent+Framework;ReForge+Engine:+Tier+1+(Advanced+Self-Healing)" alt="Nexus Architecture" />
-</div>
-
-<br/>
-
-Nexus represents the foundation of autonomous self-repair—a sophisticated agent framework engineered for granular OS-level control and adaptive evolution. It introduced the **ReForge Engine**, enabling systems to autonomously debug and patch their own codebases in real-time.
-
-<table>
-<tr>
-<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg" width="32" alt="ReForge"/></td>
-<td><strong>The ReForge Engine (Gen-8)</strong> — The industry's most sophisticated self-repair mechanism. Upon detecting a runtime anomaly, ReForge performs deep stack trace analysis, synthesizes targeted patches using embedded LLMs, and hot-reloads the fix.</td>
-</tr>
-<tr>
-<td width="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/rotate.svg" width="32" alt="Dynamic Restoration"/></td>
-<td><strong>Dynamic Restoration (Tier 1)</strong> — Employs machine learning-driven predictive analytics to forecast failures based on telemetry data, ensuring zero-interruption continuity.</td>
-</tr>
-</table>
-
-<br/>
-
-### III. Darshana // Gen-6 Cloud Cognitive AI
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=3B82F6&center=true&vCenter=true&width=500&repeat=false&lines=Architecture:+Cloud-Native+(Serverless);Role:+Cognitive+Bridge+for+Intent+Parsing;ReForge+Engine:+Tier+2+(Distributed+Recovery)" alt="Darshana Architecture" />
-</div>
-
-<br/>
-
-Darshana acts as the intellectual nexus of the earlier ecosystem—the Cognitive Bridge that deciphers nuanced human intent and orchestrates distributed reasoning. It excels in cloud-scale cognition, transforming vague queries into executable blueprints.
-
-<br/>
-
-### IV. Panda // Gen-5 Lightweight Intelligence
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2200&pause=800&color=F59E0B&center=true&vCenter=true&width=500&repeat=false&lines=Architecture:+On-Device+(Android+Native);Role:+Edge+Execution+Layer;ReForge+Engine:+Tier+3+(Lightweight+Recovery)" alt="Panda Architecture" />
-</div>
-
-<br/>
-
-Panda embodies efficiency at the edge—an ultra-lean execution engine optimized for resource-starved environments. It prioritizes offline autonomy, delivering snappy, privacy-focused intelligence without compromising on core functionalities.
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%94%AC+AI+Evolution+Framework" alt="Section: Evolution Framework" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&repeat=false&lines=Generation-based+evolutionary+path;From+deterministic+logic+to+unified+AI+Operating+Layers" alt="Evolution Description" />
-</div>
-
-<br/>
-
-| Generation | Architecture | Technical Breakthrough | Maturity Level |
-|------------|--------------|------------------------|----------------|
-| <img src="https://img.shields.io/badge/Gen_5-F59E0B?style=flat-square" alt="Gen 5"> | **Panda** | Lightweight edge intelligence with Basic Dynamic Restoration (Tier 3) and offline intent resolution | Production-Ready (Edge) |
-| <img src="https://img.shields.io/badge/Gen_6-3B82F6?style=flat-square" alt="Gen 6"> | **Darshana** | Cloud cognitive systems featuring Intermediate Dynamic Restoration (Tier 2) and vector memory graphs | Production-Ready (Cloud) |
-| <img src="https://img.shields.io/badge/Gen_7-8B5CF6?style=flat-square" alt="Gen 7"> | **Neuro-Empathic** | Multi-engine synthesis merging DreamForge generative planning with logical inference | Advanced Beta |
-| <img src="https://img.shields.io/badge/Gen_8-EC4899?style=flat-square" alt="Gen 8"> | **ReForge** | Self-diagnosing systems with autonomous repair loops and predictive telemetry analytics | Near-Production |
-| <img src="https://img.shields.io/badge/Gen_9-10B981?style=flat-square" alt="Gen 9"> | **Nexus** | Fully autonomous hybrid intelligence ecosystem with Advanced Dynamic Restoration (Tier 1) | Flagship (Legacy) |
-| <img src="https://img.shields.io/badge/Gen_10-0EA5E9?style=flat-square" alt="Gen 10"> | **Snowflake v5.0** | **The AI Operating Layer** — Unifying custom LLMs (Snowball), Micro-AI (SnowPuff) and Orchestration | **New Flagship** |
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%A7%B0+Technical+Arsenal" alt="Section: Tech Stack" />
-</div>
-
-<br/>
-
-<div align="center">
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> &nbsp;
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> &nbsp;
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
-
-**Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> &nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> &nbsp;
-  <img src="https://img.shields.io/badge/Llama_Index-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Llama Index"/>
-</p>
+### Flagship Projects
+❄️ **Snowflake AI v5.0** • Complete AI Operating Layer • Custom LLMs  
+🔮 **Nexus Framework** • Self-Healing Autonomous Agents • ReForge Engine  
+🧠 **Darshana** • Cloud Cognitive Intelligence • Serverless Orchestration
 
 </div>
 
@@ -465,86 +151,12 @@ Panda embodies efficiency at the edge—an ultra-lean execution engine optimized
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%92%BC+Featured+Engineering+Projects" alt="Section: Projects" />
-</div>
-
-<br/>
-
-<details open>
-<summary><strong>1. Snowflake AI v5.0 (AI Operating Ecosystem)</strong> <em>(Gen-10 Flagship)</em></summary>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=0EA5E9&center=true&vCenter=true&width=500&repeat=false&lines=Custom+LLMs+%7C+Micro-AI+%7C+Android+Automation+%7C+Hybrid+Inference" alt="Snowflake Tech" />
-</div>
-
-A complete AI operating layer that replaces traditional assistants with a unified ecosystem comprising custom-built models and deep system orchestration.
-
-| Module | Specs & Details |
-|--------|-----------------|
-| **Snowball-5M** | **5 Million Param (From Scratch)**: Ultra-light (10MB), <20ms latency. Handles offline classification and instant commands. |
-| **Snowball-24M** | **24 Million Param (From Scratch)**: Mid-tier reasoning for everyday assistant tasks while maintaining offline capability. |
-| **Snowball-8B** | **Fine-Tuned Llama 3.1 8B**: The "Heavy Lifter" for deep reasoning, coding, and complex agentic planning. |
-| **SnowPuff** | **~33K Param Micro-AI**: Non-generative sensory unit. Fetches real-time data (weather/stocks) and triggers system events in <10ms. |
-| **Capabilities** | **150+ Automations**: WhatsApp messaging, Accessibility (FSI), Smart Home control, and Cross-app workflows. |
-
-**Status**: Active Production | **Permissions**: Accessibility, Overlay, System Secure Settings.
-
-</details>
-
-<details>
-<summary><strong>2. Nexus Autonomous Framework</strong> <em>(Gen-9 Hybrid Agent)</em></summary>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=10B981&center=true&vCenter=true&width=500&repeat=false&lines=Python+%7C+Dart+%7C+Google+Cloud+Functions+%7C+Local+NPU+Inference+%7C+CUDA+Acceleration" alt="Nexus Tech" />
-</div>
-
-A groundbreaking multi-generational AI orchestrator that achieves true autonomy through predictive planning and self-evolution. Nexus transcends prompt-response paradigms by proactively modeling user workflows and iterating on its own performance metrics.
-
-| Feature | Description | Implementation Highlights |
-|---------|-------------|---------------------------|
-| Self-Healing (ReForge Tier 1) | Comprehensive error lifecycle management: detection, diagnosis, remediation, and post-mortem learning | LLM-powered patch generation; Integrates with Sentry for alerting |
-| Dynamic Restoration | Enterprise-grade uptime assurance with AI-driven anomaly prediction and zero-downtime patches | 99.8% recovery success; Supports blue-green deployments |
-
-</details>
-
-<details>
-<summary><strong>3. Darshana Cloud Intelligence</strong> <em>(Gen-6 Cognitive Core)</em></summary>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=2200&pause=700&color=3B82F6&center=true&vCenter=true&width=500&repeat=false&lines=Python+%7C+TypeScript+%7C+Cloud+Functions+%7C+Serverless+Orchestration+%7C+Vector+Databases" alt="Darshana Tech" />
-</div>
-
-A scalable cloud-native platform for advanced cognition, serving as the interpretive layer that bridges raw intent with executable actions. Darshana excels in handling ambiguous queries and facilitating multi-agent collaborations.
-
-</details>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=818CF8&center=true&vCenter=true&width=520&repeat=false&lines=%F0%9F%9A%80+Future+Roadmap" alt="Section: Roadmap" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=800&color=64748B&center=true&vCenter=true&width=600&repeat=false&lines=Expanding+Snowflake+Ecosystem+with+Gen-11+Neural+Federation+and+Quantum-Resistant+Security" alt="Roadmap Status" />
-</div>
-
-<br/>
-
-<div align="center">
+  <a href="docs/ABOUT.md">
+    <img src="https://img.shields.io/badge/Learn_More_About_Me-6366F1?style=for-the-badge" alt="About Me"/>
+  </a>
+  <a href="docs/PROJECTS.md">
+    <img src="https://img.shields.io/badge/Explore_Projects-0EA5E9?style=for-the-badge" alt="Projects"/>
+  </a>
   <a href="mailto:shaurya070408@gmail.com">
     <img src="https://img.shields.io/badge/Let%27s_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect"/>
   </a>
@@ -561,7 +173,5 @@ A scalable cloud-native platform for advanced cognition, serving as the interpre
 </div>
 
 <div align="center">
-  <strong>01000100 01110010 01101001 01110011 01101000 01110100 01101001
-</strong>
+  <strong>01000100 01110010 01101001 01110011 01101000 01110100 01101001</strong>
 </div>
-
