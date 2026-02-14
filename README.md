@@ -1,6 +1,6 @@
 # Shaurya Pratap Singh
 ## Systems Architect | AI Engineer | R&D
-### Creator of Snowflake, Nexus, Darshana
+### Creator of Snowflake, Nexus and Darshana
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=900&color=6366F1&center=true&vCenter=true&width=800&repeat=false&lines=Shaurya+Pratap+Singh;Systems+Architect+%7C+AI+Engineer+%7C+R%26D;Creator+of+Snowflake%2C+Nexus+%26+Panda" alt="Header Typing SVG" />
@@ -89,7 +89,7 @@ Whether it's architecting frameworks for recursive self-healing or pioneering mu
 <br/>
 <sub>Preserving edge execution</sub>
 <br/>
-<code>The Panda Protocol</code>
+<code>Protocol</code>
 </td>
 <td align="center" width="260">
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/brain.svg" width="40" alt="Cognitive Orchestration"/>
