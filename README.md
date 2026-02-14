@@ -1,6 +1,6 @@
 # Shaurya Pratap Singh
 ## Systems Architect | AI Engineer | R&D
-### Creator of Snowflake, Nexus, Darshana & Panda
+### Creator of Snowflake, Nexus, Darshana
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=900&color=6366F1&center=true&vCenter=true&width=800&repeat=false&lines=Shaurya+Pratap+Singh;Systems+Architect+%7C+AI+Engineer+%7C+R%26D;Creator+of+Snowflake%2C+Nexus+%26+Panda" alt="Header Typing SVG" />
